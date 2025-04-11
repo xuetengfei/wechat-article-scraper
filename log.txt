@@ -4,7 +4,43 @@ links
 ✅ 保存成功：articles/吉卜力专访：宫崎骏不需要接班人.md
 📥 [2/2] 正在抓取：https://mp.weixin.qq.com/s/vSfMgGtHkfIjefIVlFTPYg
 ✅ 保存成功：articles/我敢说！这是全深圳人最少的「海滨公园」.md
+➜  wechat-article-scraper git:(master) ✗ node scrape_batch.js
+links
+📥 [1/2] 正在抓取：https://mp.weixin.qq.com/s/bNWcoWz0iaEqTlXbIv6GyQ
+✅ 保存成功：articles/命运之路，从未分叉.md
+📥 [2/2] 正在抓取：https://mp.weixin.qq.com/s/_ffgE9fErBRl-DpM5XtkxA
+✅ 保存成功：articles/精明的统治十分高效，它不必现身，只需隐藏便能应对自如.md
+➜  wechat-article-scraper git:(master) ✗ node scrape_jike.js
+🚀 [1/14] 正在抓取：https://m.okjike.com/originalPosts/666ce0257cfe83a29cc62257?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：技术牛马.md
+🚀 [2/14] 正在抓取：https://m.okjike.com/originalPosts/6663e7a969fbc53a49d1349b?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：有没有一本心理学的地图🗺 想要学习心理学的人看着它，就对心.md
+🚀 [3/14] 正在抓取：https://m.okjike.com/originalPosts/662315f937f7165b215084fd?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：这上面说屁话的人好多啊。天天给人讲到大道理。.md
+🚀 [4/14] 正在抓取：https://m.okjike.com/originalPosts/6669a48f020bdd6bf87eb26e?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：是我的问题 无聊补一下剧.md
+🚀 [5/14] 正在抓取：https://m.okjike.com/originalPosts/666aaeb520e0e4cd6ca24abb?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：老常，一个非常怕麻烦的直男，一个致力于把家里搞成全屋智能提高.md
+🚀 [6/14] 正在抓取：https://m.okjike.com/originalPosts/666c2fe019d274e296964bee?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：这条可能挺伤人的， 但是人啊， 总是不知不觉就被驯化了。 我.md
+🚀 [7/14] 正在抓取：https://m.okjike.com/originalPosts/666a84bb8c7265cf1d6fee06?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：文字是自己控制节奏； 视频是别人控制节奏。.md
+🚀 [8/14] 正在抓取：https://m.okjike.com/originalPosts/66694f7b19d274e2965ba4e4?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：为啥都说Mac比win小众？ 看了一圈，上课的老师都是Mac.md
+🚀 [9/14] 正在抓取：https://m.okjike.com/originalPosts/666edf025fba279b4b8a55be?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：大佬请笑笑分享了图片.md
+🚀 [10/14] 正在抓取：https://m.okjike.com/originalPosts/66693b80f9d452fbbcad1d71?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：挣大钱是有秘密的 直白的说就是靠贵人相助。 赚小钱，靠自己.md
+🚀 [11/14] 正在抓取：https://m.okjike.com/originalPosts/67e82636fcf428ecfe4a77ce?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：每个灵魂都需要经历三次破茧： 第一次挣脱原生家庭的丝茧； 第.md
+🚀 [12/14] 正在抓取：https://m.okjike.com/originalPosts/66704daea85f8e418eced5c3?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：现代人最大的特色， 摆烂和发疯甚至是为了更好的支棱。.md
+🚀 [13/14] 正在抓取：https://m.okjike.com/originalPosts/666d2cc919d274e296a7f3e8?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：之前调整的后续，飞书不好做.md
+🚀 [14/14] 正在抓取：https://m.okjike.com/originalPosts/67f66e3c69f0086defb21206?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：“这世间的真话本就不多，一个女子的脸红，胜过一大段对白。”.md
 ➜  wechat-article-scraper git:(master) ✗
+
 
 ➜  wechat-article-scraper node scrape_jike.js
 🚀 [1/4] 正在抓取：https://m.okjike.com/originalPosts/67f87c8c7cb8c547e2781ac1?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
@@ -22,7 +58,6 @@ Waiting for selector `#__next > div > div.post-page` failed: Waiting failed: 100
 ✅ 成功保存：永远不要整理那些可以去除的东西 。 https___hap.md
 🚀 [2/2] 正在抓取：https://m.okjike.com/originalPosts/67f8ee779f9979a85a4765c2?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
 ✅ 成功保存：「最好的工作是持续学习者在自由市场中的创造力表达。」 真是.md
-➜  wechat-article-scraper git:(master) ✗
 
 
 黄金梦中人
