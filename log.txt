@@ -1,3 +1,11 @@
+➜  wechat-article-scraper git:(master) ✗ node scrape_batch.js
+links
+📥 [1/2] 正在抓取：https://mp.weixin.qq.com/s/CH671sXEmZ0o4nY29tPI9A
+✅ 保存成功：articles/吉卜力专访：宫崎骏不需要接班人.md
+📥 [2/2] 正在抓取：https://mp.weixin.qq.com/s/vSfMgGtHkfIjefIVlFTPYg
+✅ 保存成功：articles/我敢说！这是全深圳人最少的「海滨公园」.md
+➜  wechat-article-scraper git:(master) ✗
+
 ➜  wechat-article-scraper node scrape_jike.js
 🚀 [1/4] 正在抓取：https://m.okjike.com/originalPosts/67f87c8c7cb8c547e2781ac1?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
 ✅ 成功保存：有一些可以和大家分享的： 1、大量读书。 2、学会屏蔽无关.md
