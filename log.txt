@@ -1,3 +1,25 @@
+➜  wechat-article-scraper git:(master) ✗ node scrape_jike.js
+🚀 [1/7] 正在抓取：https://m.okjike.com/originalPosts/66443c927d47115946c13c4d?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：之前写了一段“沉默者是表达者的红利”，在即刻收到几百点赞：h.md
+🚀 [2/7] 正在抓取：https://m.okjike.com/originalPosts/662e34b56d9f1906319c5707?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：一个现象： 一个渴望改变的人，身边的牛人会帮忙指引，比如让.md
+🚀 [3/7] 正在抓取：https://m.okjike.com/originalPosts/663f05044cdaad9141b4bce3?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：永远存在，它们随着社会环境而进化.md
+🚀 [4/7] 正在抓取：https://m.okjike.com/originalPosts/664430bb19d274e2967126b5?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：因为这个世界就是个巨大草台班子，所以跟任何人沟通只管看谁更自.md
+🚀 [5/7] 正在抓取：https://m.okjike.com/originalPosts/65e9e2b26d9f190631a28c79?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：我居然在华与华的书里，读懂了当美女的秘诀 “符号的意义在于.md
+🚀 [6/7] 正在抓取：https://m.okjike.com/originalPosts/663f6e83bee2d002290b969a?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：最近雨水太多，镜面草又圆又大长疯了！.md
+🚀 [7/7] 正在抓取：https://m.okjike.com/originalPosts/65f8cd6538849f879f559597?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：原来是这样，暴躁的原因找到了。哎.md
+➜  wechat-article-scraper git:(master) ✗
+
+
+
+
+
+
 ➜  wechat-article-scraper git:(master) ✗ node scrape_batch.js
 links
 📥 [1/2] 正在抓取：https://mp.weixin.qq.com/s/CH671sXEmZ0o4nY29tPI9A
