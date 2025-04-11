@@ -1,3 +1,448 @@
+➜  wechat-article-scraper node scrape_jike.js
+🚀 [1/4] 正在抓取：https://m.okjike.com/originalPosts/67f87c8c7cb8c547e2781ac1?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：有一些可以和大家分享的： 1、大量读书。 2、学会屏蔽无关.md
+🚀 [2/4] 正在抓取：https://m.okjike.com/originalPosts/67eb7867070109da498dd72e?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：上周陪朋友去见客户，她紧张得手心冒汗。我塞给她一张便签：_你.md
+🚀 [3/4] 正在抓取：https://m.okjike.com/originalPosts/662d98dd38849f879f2cfead?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+❌ 抓取失败：https://m.okjike.com/originalPosts/662d98dd38849f879f2cfead?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+Waiting for selector `#__next > div > div.post-page` failed: Waiting failed: 10000ms exceeded
+🚀 [4/4] 正在抓取：https://m.okjike.com/originalPosts/6680186da3e22d353a13a020?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：Some memories of 2024. ​ ​“我的整.md
+
+➜  wechat-article-scraper git:(master) ✗ node scrape_jike.js
+🚀 [1/2] 正在抓取：https://m.okjike.com/originalPosts/6649c489928d2cdfd5f02347?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：永远不要整理那些可以去除的东西 。 https___hap.md
+🚀 [2/2] 正在抓取：https://m.okjike.com/originalPosts/67f8ee779f9979a85a4765c2?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：「最好的工作是持续学习者在自由市场中的创造力表达。」 真是.md
+➜  wechat-article-scraper git:(master) ✗
+
+
+黄金梦中人
+作者：张卓卓张
+-https://mp.weixin.qq.com/s/goD3JqSDtIoo6TuUw1r0-Q
+黄金梦中人
+作者：张卓卓张
+-https://mp.weixin.qq.com/s/goD3JqSDtIoo6TuUw1r0-Q
+存储日期：31/3/25 15:38
+每年花200万美元抗衰，硅谷富豪想活到25世纪
+作者：陈茁
+https://mp.weixin.qq.com/s/-t9L5tIr0_6_-i-0TNeN_w
+存储日期：31/3/25 14:26
+复盘复盘-有哪些看似不起眼，实则非常值得坚持的小事？
+作者：
+https://mp.weixin.qq.com/s/A5IwN1iBgCGyMlry1mirCQ
+存储日期：27/3/25 21:23
+为什么特朗普注定失败？
+作者：楚团长
+https://mp.weixin.qq.com/s/22zQKVwZwjnuNCRxsp3XdA
+存储日期：9/4/25 18:07
+4亿人的大肚腩，国家都看不下去了
+作者：何驰
+https://mp.weixin.qq.com/s/1EkpyBRykFvCvKTjHdmYtA
+存储日期：25/3/25 15:30
+修行的姿势
+作者：和菜头
+https://mp.weixin.qq.com/s/egOzMBK-Dnm0EyjNUmBT-w
+存储日期：20/3/25 12:34
+恋物
+作者：和菜头
+https://mp.weixin.qq.com/s/imhJifFWjoEnBtSjJARicA
+存储日期：9/4/25 12:47
+灵魂总是有的
+
+
+2024年2月16日 下午4:07
+
+https://mp.weixin.qq.com/s/xcA-oq5YWPbC61lBPv_j_w
+
+
+2024年2月16日 下午4:07
+
+https://mp.weixin.qq.com/s/7NYUK_fvJTvaEqWJa4Y4Bg
+
+
+
+留堂到最后
+https://mp.weixin.qq.com/s/nKPsmq21Fvx1sHFl6tNc8w
+2024年6月3日 12:06
+
+
+「杀鸟盘」围猎求职宝妈
+
+https://mp.weixin.qq.com/s/VB7wcnZiVIEb_xJeK6Ngsw
+2024年5月11日 21:03
+
+
+
+在深圳富人区的桥洞里，靠10块的摆摊生意月入六千
+作者：白粥
+来源：https://mp.weixin.qq.com/s/O0B6gY5NpTZ67FGmKe-AuA
+存储日期：10/3/25 17:41
+
+
+
+职场制胜的关键，在于看清公司里的权力地图
+作者：HBR-China
+来源：https://mp.weixin.qq.com/s/4pA68vWUKYOsPGTmRfhdFQ
+存储日期：14/3/25 09:12
+
+
+
+公众号划线功能答疑
+作者：和菜头
+来源：https://mp.weixin.qq.com/s/aVlg1O55QJB9vWYKtSqAtw
+存储日期：11/3/25 11:49
+
+
+
+Google 做了淘宝的事
+作者：和菜头
+来源：https://mp.weixin.qq.com/s/7-nvC97SilFFADZel0jqEA
+存储日期：16/3/25 13:10
+
+世界那么大，她已经看过啦
+作者：和菜头
+来源：https://mp.weixin.qq.com/s/o9PBFK3iFpiNIBnfia37Ag
+存储日期：23/3/25 11:41
+
+AI 前景光明却难落地，5 大心理障碍咋破？
+作者：HBR-China
+来源：https://mp.weixin.qq.com/s/fRWQjwRyoYR76IyZJzmODQ
+存储日期：20/3/25 12:37
+
+抱大腿，做大事，掉大坑
+作者：和菜头
+来源：https://mp.weixin.qq.com/s/ZA_HgnBHgYC8JZe-ROcVCw
+存储日期：20/3/25 12:34
+
+AI 们关于婚姻最深刻的洞见
+作者：和菜头
+来源：https://mp.weixin.qq.com/s/gl169sau74W-xeVqcBUXEg
+存储日期：20/3/25 12:34
+
+
+为什么大家都说人生的容错率大到无法想象？
+作者：知乎日报
+来源：https://mp.weixin.qq.com/s/FhU7yb2OwWHFwymPZIigQw
+存储日期：12/3/25 21:45
+
+刚学会歧视的AI，就开始PUA我了
+作者：郭草莓
+来源：https://mp.weixin.qq.com/s/8is964npRTUCPLp838bPcQ
+存储日期：23/3/25 16:21
+
+梁海源：偷偷努力，不行就当没有努力过
+作者：看理想编辑部
+来源：https://mp.weixin.qq.com/s/tStWQwHfnvMFw-h4JwOLmg
+存储日期：21/3/25 14:56
+
+在日本苦学三年，我亲手打造了一支硬核女团
+作者：陈茁
+来源：https://mp.weixin.qq.com/s/pgTnDNXHMTGuWNkvmm-4xg
+存储日期：20/3/25 14:27
+
+
+真诚、温暖、责任、付出、共情、支持、关照等等…这些爱意流动、 - 即刻App
+作者：
+来源：https://m.okjike.com/originalPosts/67dd5ed51ab958e77ea98a2e?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+存储日期：23/3/25 17:44
+
+
+韩国真实见闻——东亚都陷入了一样的困境
+作者：
+来源：https://mp.weixin.qq.com/s/cl1ycLcS53KD98D2CFY5mw
+存储日期：25/2/25 22:36
+
+原来大家爱抠头皮、抠痘痘的心理都是相似的
+作者：心可溯源
+来源：https://mp.weixin.qq.com/s/n2CPZ47qRzL4hiKoM33wJg
+存储日期：26/2/25 09:55
+
+和女人相比，男人人均“弱势群体”
+作者：odbolucci
+来源：https://mp.weixin.qq.com/s/MeoGOe6YDI3ZheIzHyb1yg
+存储日期：25/3/25 08:43
+
+一家民办幼儿园的衰落始末
+作者：于蒙
+来源：https://mp.weixin.qq.com/s/no2B5vGspTD8eeBxTpTqag
+存储日期：24/3/25 09:49
+炫富网红，集体消失
+作者：每人作者
+来源：https://mp.weixin.qq.com/s/vWe3wobeCDjuhhmY_BzSpw
+存储日期：4/6/24 11:26
+
+
+
+为什么有钱男人，都爱「金丝眼镜」？
+作者：夏颂
+来源：https://mp.weixin.qq.com/s/aUMaVFAiYmATPNGvvikwGA
+存储日期：20/3/25 12:40
+
+年轻人好像在谈一种很新的恋爱
+作者：简单心理
+来源：https://mp.weixin.qq.com/s/h2EHYd02-DZf23fDrdbJsA
+存储日期：25/2/25 17:01
+
+
+关于挣钱的意义，这是我听过最好的答案
+作者：Lansney
+来源：https://mp.weixin.qq.com/s/xm_eJs9TN6nTd7wmW3gyPg
+存储日期：27/2/25 09:24
+
+3.5万北海道买独栋，日本房咋这么便宜
+作者：木子童
+来源：https://mp.weixin.qq.com/s/2uxrtRX8qV51tdOmQEuP6A
+存储日期：26/2/25 17:54
+
+知乎瞎扯｜人可以后知后觉到什么程度？
+作者：知乎日报
+来源：https://mp.weixin.qq.com/s/9Kai4H5rQm1KQLEBO6G8-w
+存储日期：23/2/25 22:22
+
+不租房不买房，年轻人盯上长住酒店
+作者：每人作者
+来源：https://mp.weixin.qq.com/s/vyZW7MWt9_JLSKOn_R5rSg
+存储日期：25/2/25 09:14
+
+
+为什么好人，很难成为好领导？
+作者：Mr.K
+来源：https://mp.weixin.qq.com/s/DEF5EjWQJWZkDUMET-55hw
+存储日期：1/5/24 12:30
+
+春天的迹象
+原创 和菜头 槽边往事
+https://mp.weixin.qq.com/s/VT3nZfZK-YJB8RHfGtC_dw
+
+
+
+
+https://mp.weixin.qq.com/s/JGDGo8q4rIdzNhvaRtZxAA
+主播之死
+人物
+
+
+
+了解自己思维方式的人，做什么都事半功倍
+原创 HBR-China 哈佛
+https://mp.weixin.qq.com/s/Ts0xxQX8R8HZw7xqLAerCA
+
+
+苦禅洞“孙悟空”活在现实中
+原创 中国青年报 冰点周刊
+2024年2月2日 上午8:17
+
+https://mp.weixin.qq.com/s/5H1UGHGusVKKGfaF9XVUSw
+
+2024年2月8日 下午1:37
+
+https://mp.weixin.qq.com/s/jWZfolNKTL1ed0m_aM5pUg
+
+
+
+https://mp.weixin.qq.com/s/Jql9Uk21lyHN4ufv2ophug
+
+
+
+
+特朗普关税新政反复，跨境电商遭“地震”被迫转型求生
+作者：谢诗剑
+来源：https://mp.weixin.qq.com/s/cdWVmyM0g-30y3uhKi0iNA
+存储日期：26/2/25 17:52
+
+
+
+有所不为
+作者：和菜头
+来源：https://mp.weixin.qq.com/s/Sg2MMzyk5Or5q6JJ5KQu7Q
+存储日期：10/3/25 12:14
+
+彩虹的教授
+作者：和菜头
+来源：https://mp.weixin.qq.com/s/b3YhrDi_WQSE9YbmGxgiug
+存储日期：10/3/25 12:13
+
+2025 年第一次成功的智商税
+作者：和菜头
+来源：https://mp.weixin.qq.com/s/5920h0wDj7lw2reAx4ckcg
+存储日期：12/3/25 18:38
+
+对自己负无限责任，对他人负有限责任。 - 即刻App
+作者：
+来源：https://m.okjike.com/originalPosts/67cd76ce9f9979a85a61a67b?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+存储日期：10/3/25 12:23
+
+特斯拉危机背后：管理好政治风险，是当今企业的必修课
+作者：HBR-China
+来源：https://mp.weixin.qq.com/s/Ppb41yVdo8JWdB8v1jrC1g
+存储日期：12/3/25 09:34
+作者：和菜头
+https://mp.weixin.qq.com/s/i47MJK9_07x7Molsg-n1xw
+存储日期：6/4/25 11:18
+和自己在一起
+作者：和菜头
+https://mp.weixin.qq.com/s/jzUCPvSy5_OpQrHnmBIh0Q
+存储日期：5/4/25 14:05
+小白也能用的NAS应该是这样才对
+作者：和菜头
+https://mp.weixin.qq.com/s/lRk9GtkbwaGJDFzoWr21JA
+存储日期：4/4/25 13:08
+入门算成功的一半
+作者：和菜头
+https://mp.weixin.qq.com/s/9mxzTwbhPUdoQrTtWa2bCA
+存储日期：30/3/25 12:49
+骑三轮
+作者：和菜头
+https://mp.weixin.qq.com/s/HE_OEyT7eN5KbWeNtgyMZg
+存储日期：20/3/25 12:34
+
+
+患上意义焦虑症，不是我们的错
+作者：
+https://mp.weixin.qq.com/s/6wtKk54v9Rns4MIpCLhHYg
+存储日期：1/4/25 13:29
+
+https://mp.weixin.qq.com/s/Wmzf4rBnjp76pKQ8bvoeIw
+https://mp.weixin.qq.com/s/Y8ncC_pXkFn6rVKdVUyWzw
+https://mp.weixin.qq.com/s/EuNb3998-uUCsS5FDDsglA
+存储日期：10/4/25 08:18
+https://mp.weixin.qq.com/s/gxmenqelKTtzy32sUA7qqA
+存储日期：10/4/25 07:08
+
+https://mp.weixin.qq.com/s/tcBmQjY2SLJe5y4Q05kjQA
+存储日期：10/4/25 13:44
+
+
+https://mp.weixin.qq.com/s/AcB2rvdIOUY6xRwurXrppQ
+存储日期：7/4/25 23:38
+
+这绝对是近5年以来，全球资本市场集体遭遇的最恐怖“黑色星期一”！
+
+「先好好活着，剩下的以后再说」
+作者：简单心理APP
+https://mp.weixin.qq.com/s/RilB30Vl8IuY4GdFdjqg3A
+存储日期：4/4/25 17:31
+读完这本豆瓣8.9，才敢承认自己缺爱
+作者：杨芮
+https://mp.weixin.qq.com/s/WBPf_zJywvgTUZVEwx3ZPA
+存储日期：3/4/25 13:39
+
+谈话与思想｜什么导致了政治公共领域的解体？
+作者：小鸟文学
+https://mp.weixin.qq.com/s/5ab-ZOxe7LccTJLWF-feYw
+存储日期：3/4/25 09:57
+遇事总是想很多，内耗严重的人该怎么调节自己？
+作者：
+https://mp.weixin.qq.com/s/eI0nD9WGe3q8rtT2nSet9Q
+存储日期：2/4/25 22:17
+
+94年，31岁，人到中年，才发现打工和离职都不是最好的选择…
+作者：流月
+https://mp.weixin.qq.com/s/WqXrx3T-j2uiYrZojZiSYQ
+存储日期：2/4/25 20:13
+2025新西兰移民数据曝光！华人2.35万！高福利+低门槛成全球热选
+作者：
+https://mp.weixin.qq.com/s/XVcseOpL-iRm1YvGL24SFg
+存储日期：31/3/25 10:15
+一个男孩如何变坏？这部8.7分英剧后劲太强
+作者：晏非
+https://mp.weixin.qq.com/s/Sr6a2p-5y_l7alpV5WxIDA
+存储日期：26/3/25 18:10
+
+10 件成本极低，但能快速改善抑郁情绪的小事（第 7 个基本没人知道）
+作者：
+https://mp.weixin.qq.com/s/ymQ7AunluSmMMwD9VDmWlg
+存储日期：25/3/25 16:12
+
+“骂醒弱女”，不会让我们更好
+作者：Alexwood
+https://mp.weixin.qq.com/s/7EPTYSCjesS-49mA-ClS-Q
+存储日期：28/3/25 14:05
+
+特朗普开始为所欲为
+作者：冷战的故事
+https://mp.weixin.qq.com/s/BNW69fVpGmIMdl7j1mzsEQ
+存储日期：7/4/25 13:59
+出海打工的年轻人，又离职了
+作者：王珏
+https://mp.weixin.qq.com/s/46_ba-64B0lV-l-Gupc3kw
+存储日期：2/4/25 19:37
+从月薪5w到日结200，大厂逃离者的魔幻再就业
+作者：李葵
+https://mp.weixin.qq.com/s/m6VDuXoDlUGrMwgO6i9QJw
+存储日期：31/3/25 09:47
+你的沉默比争吵更伤人
+作者：巴九灵
+https://mp.weixin.qq.com/s/_13Law0nFSA-XRzf2wMe-A
+存储日期：31/3/25 09:43
+颠覆经济学的丹尼尔·卡尼曼，是如何理解人性与自我的？
+作者：
+https://mp.weixin.qq.com/s/6JgecxnL9mr2LIpswVTp2g
+存储日期：30/3/25 11:41
+
+来的不是未来
+作者：和菜头
+https://mp.weixin.qq.com/s/v7gZ7ZGYdsm6NKLYlL5uLg
+存储日期：28/3/25 11:25
+看清人生荒诞，仍要认真演戏
+作者：于海 邹华华
+https://mp.weixin.qq.com/s/x4TmkrEucVQPADp1pYG6Ww
+存储日期：27/3/25 12:22
+先斩意中人
+作者：和菜头
+https://mp.weixin.qq.com/s/f9r6y4rhInqdqoQ4b4iFGA
+存储日期：27/3/25 12:19
+在网上
+作者：和菜头
+https://mp.weixin.qq.com/s/ymbVZ1SZGCSVOgP2xrfrew
+
+
+三联×读库：守护日常，窥见时代
+作者：中读
+https://mp.weixin.qq.com/s/WMyXKztCdMHEzPge3srqPg
+存储日期：27/2/25 14:03
+
+Google 做了淘宝的事
+作者：和菜头
+https://mp.weixin.qq.com/s/7-nvC97SilFFADZel0jqEA
+存储日期：20/3/25 12:33
+
+
+
+“完美”女友，让他们背上百万房贷
+作者：小昼
+https://mp.weixin.qq.com/s/esmSTF9EsyS4yJRHVgXibA
+存储日期：7/4/25 18:41
+新知｜我只是想和我丈夫聊聊，怎么就那么难？
+作者：小鸟文学
+https://mp.weixin.qq.com/s/g5tgpsOI1v9sskkVjYqGKw
+存储日期：7/4/25 13:22
+一个月只花30元，985毕业生挤满躺平赛道
+作者：阿瑞
+https://mp.weixin.qq.com/s/itg1RomZoQrJ5XFFb_nbCw
+存储日期：7/4/25 10:15
+
+
+📥 [1/8] 正在抓取：https://mp.weixin.qq.com/s/MZ6UTgdmNTTo5D5GppaXsg
+✅ 保存成功：articles/“我比较担忧人文学科在科技面前的溃败”.md
+📥 [2/8] 正在抓取：https://mp.weixin.qq.com/s/_wSfb--ZCQ5e5x7bORXRwQ
+✅ 保存成功：articles/如何从一个空有上进心的人，变成一个行动上的巨人.md
+📥 [3/8] 正在抓取：https://mp.weixin.qq.com/s/xwHlvk3wzmYGfn56xyyZuQ
+✅ 保存成功：articles/为什么你的分类总是失败？90%的人都不知道的3个关键原则！.md
+📥 [4/8] 正在抓取：https://mp.weixin.qq.com/s/_L1iYmGrL27tINgn6Z5b9Q
+✅ 保存成功：articles/生命是一万次的春和景明勇敢的人先享受世界爱自己才是答案你一句春不晚我就到了真江南.md
+📥 [5/8] 正在抓取：https://mp.weixin.qq.com/s/s5I1-nYs1r3jFP4Zv5KmUg
+✅ 保存成功：articles/一个安吉三百多家村咖，村口卖咖啡还能“火”下去吗？.md
+📥 [6/8] 正在抓取：https://mp.weixin.qq.com/s/aMIe7NWutw0ascjft3iCUQ
+✅ 保存成功：articles/「脑腐」时代，我们和我们正在变笨的大脑.md
+📥 [7/8] 正在抓取：https://mp.weixin.qq.com/s/pzAy7f03_eGwfD6vZ8dxug
+✅ 保存成功：articles/当员工都变得沉默不语，企业的危机就不远了.md
+📥 [8/8] 正在抓取：https://mp.weixin.qq.com/s/TY-xPK6lpNKjCnD1OqPAJQ
+✅ 保存成功：articles/专访猫总：我在日本，用加密货币卖房子.md
+➜  wechat-article-scraper
+
+
 
 来源：https://m.okjike.com/originalPosts/67f78f99dc6b6d4853dd6f39?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
 存储日期：10/4/25 20:40
@@ -491,14 +936,3 @@ Waiting for selector `#__next > div > div.post-page` failed: Waiting failed: 100
 ➜  wechat-article-scraper
 
 
-➜  wechat-article-scraper node scrape_jike.js
-🚀 [1/4] 正在抓取：https://m.okjike.com/originalPosts/67f87c8c7cb8c547e2781ac1?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
-✅ 成功保存：有一些可以和大家分享的： 1、大量读书。 2、学会屏蔽无关.md
-🚀 [2/4] 正在抓取：https://m.okjike.com/originalPosts/67eb7867070109da498dd72e?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
-✅ 成功保存：上周陪朋友去见客户，她紧张得手心冒汗。我塞给她一张便签：_你.md
-🚀 [3/4] 正在抓取：https://m.okjike.com/originalPosts/662d98dd38849f879f2cfead?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
-❌ 抓取失败：https://m.okjike.com/originalPosts/662d98dd38849f879f2cfead?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
-Waiting for selector `#__next > div > div.post-page` failed: Waiting failed: 10000ms exceeded
-🚀 [4/4] 正在抓取：https://m.okjike.com/originalPosts/6680186da3e22d353a13a020?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
-✅ 成功保存：Some memories of 2024. ​ ​“我的整.md
-➜  wechat-article-scraper
