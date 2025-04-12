@@ -40,7 +40,7 @@ const links = fs
           '';
 
         const content = _content
-          .replaceAll('来自圈子', '')
+          .replaceAll('来自圈子', '---')
           .replaceAll('热门评论', '');
 
         // 提取标题、作者、时间等信息

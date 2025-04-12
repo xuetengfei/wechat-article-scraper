@@ -1,4 +1,122 @@
 ➜  wechat-article-scraper git:(master) ✗ node scrape_jike.js
+🚀 [1/16] 正在抓取：https://m.okjike.com/originalPosts/6638482a164d89e601fd7c68?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：吃即刻瓜的时候总是会想到这条微博.md
+🚀 [2/16] 正在抓取：https://m.okjike.com/originalPosts/6571ba1fec195a00b74514f9?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：不要了…真的不要了….md
+🚀 [3/16] 正在抓取：https://m.okjike.com/originalPosts/6634df0537f7165b2194510a?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：叫我小什么分享了图片.md
+🚀 [4/16] 正在抓取：https://m.okjike.com/originalPosts/66360486de5f287348f16b52?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：人到中年最大的清醒：时也，运也，命也 时也：上坡难走马，顺.md
+🚀 [5/16] 正在抓取：https://m.okjike.com/originalPosts/6629eaff3b9c66cae49e4d56?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：汉隆剃刀(Hanlon's Razor) ━━━━━━━━━.md
+🚀 [6/16] 正在抓取：https://m.okjike.com/originalPosts/662a15ac36246663247d89e1?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：旧的模式以极大的诱惑力逼迫我们遵从时，你能跳开旧的路径引力，.md
+🚀 [7/16] 正在抓取：https://m.okjike.com/originalPosts/661e0f43164d89e6011e42a4?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：外来的和尚念不好经，过江龙不如地头蛇。.md
+🚀 [8/16] 正在抓取：https://m.okjike.com/originalPosts/6630ab7f9185c305d14d7a80?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：草根创业的一个缺点就是舍不得花钱。 我们之前有个探索项目，.md
+🚀 [9/16] 正在抓取：https://m.okjike.com/originalPosts/66328232de5f287348b79c02?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：一个月前后樱花树的变化.md
+🚀 [10/16] 正在抓取：https://m.okjike.com/originalPosts/66364fd412ed2fda68364f6b?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+❌ 抓取失败：https://m.okjike.com/originalPosts/66364fd412ed2fda68364f6b?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+Waiting for selector `#__next > div > div.post-page` failed: Waiting failed: 10000ms exceeded
+🚀 [11/16] 正在抓取：https://m.okjike.com/originalPosts/6630a77738849f879f682f4f?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：这段尤其精彩！！！ 关于根植于创造的意义， 关于有限与无限的.md
+🚀 [12/16] 正在抓取：https://m.okjike.com/originalPosts/66338f356d9f190631fab6ea?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：以前认识新朋友、推荐他人、介绍对象，从来不看身份履历，我自己.md
+🚀 [13/16] 正在抓取：https://m.okjike.com/originalPosts/66363c6612ed2fda6834abeb?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：海边太治愈啦.md
+🚀 [14/16] 正在抓取：https://m.okjike.com/originalPosts/662070dca922aa28d0264621?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：很适合晒太阳的花草地.md
+🚀 [15/16] 正在抓取：https://m.okjike.com/originalPosts/6627dff19185c305d1aadcbe?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：贩卖好感或制造焦虑 SM架构（Sex and Money）.md
+🚀 [16/16] 正在抓取：https://m.okjike.com/originalPosts/662f46d012ed2fda68bb73a8?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：今日一去不复返，若不吃它、喝它、尝它、闻它，就永不再有第二次.md
+➜  wechat-article-scraper git:(master) ✗
+
+
+➜  wechat-article-scraper git:(master) ✗ node scrape_jike.js
+🚀 [1/10] 正在抓取：https://m.okjike.com/originalPosts/664c996a9dfebc58cdcab97f?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：get了一些人生照片.md
+🚀 [2/10] 正在抓取：https://m.okjike.com/originalPosts/664ac119f55252ef89975f9e?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：我弟今年高考结束，在上大学前，我想让他提前感受一下社会和商业.md
+🚀 [3/10] 正在抓取：https://m.okjike.com/originalPosts/6648361b7d830758e334fb39?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：真诚是杀死自己的必杀技.md
+🚀 [4/10] 正在抓取：https://m.okjike.com/originalPosts/6640873a6d436a3b99f59523?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：国内太卷了~大家都迫不及待要出海了，可以看看这个出海技术栈工.md
+🚀 [5/10] 正在抓取：https://m.okjike.com/originalPosts/6630c3f337f7165b214fcd59?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：通过阅读 获得解放.md
+🚀 [6/10] 正在抓取：https://m.okjike.com/originalPosts/66457f6144e298e87ed1b04f?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+❌ 抓取失败：https://m.okjike.com/originalPosts/66457f6144e298e87ed1b04f?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+Waiting for selector `#__next > div > div.post-page` failed: Waiting failed: 10000ms exceeded
+🚀 [7/10] 正在抓取：https://m.okjike.com/originalPosts/6646b88f9e2e9fda02bf8a51?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：看到路边有农民工，拿着棍卖乌龟。说是工地挖出来的。 都什么时.md
+🚀 [8/10] 正在抓取：https://m.okjike.com/originalPosts/664a90ae19d274e296f0414d?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：9_ 比如读书，一年在亚马逊上买四百本书也就大约四千美元。可.md
+🚀 [9/10] 正在抓取：https://m.okjike.com/originalPosts/664a9c19928d2cdfd5ffe426?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：分享2个心理学概念对我们生活的影响：聚焦幻觉和峰终效应。.md
+🚀 [10/10] 正在抓取：https://m.okjike.com/originalPosts/66475a0c9e2e9fda02cdfa52?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：组长走了，被经理（一个外行，今年刚去，强塞进去的，老板表哥，.md
+➜  wechat-article-scraper git:(master) ✗
+
+
+
+➜  wechat-article-scraper git:(master) ✗ node scrape_jike.js
+🚀 [1/25] 正在抓取：https://m.okjike.com/originalPosts/663e09ebb191b64a7767ddaf?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：？.md
+🚀 [2/25] 正在抓取：https://m.okjike.com/originalPosts/663ff297168f10179aaacc96?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：优秀男人图鉴，很残酷但真实 之前听到一位身在上海，且交际圈.md
+🚀 [3/25] 正在抓取：https://m.okjike.com/originalPosts/66324cca38849f879f8528eb?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：#马路观察员#.md
+🚀 [4/25] 正在抓取：https://m.okjike.com/originalPosts/663c4a9e38849f879f3f4e55?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：不要怀疑大佬们的眼光.md
+🚀 [5/25] 正在抓取：https://m.okjike.com/originalPosts/663c51debc0f9d404bb8f98c?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：潜意识是遵循粉象悖论的.md
+🚀 [6/25] 正在抓取：https://m.okjike.com/originalPosts/66272f586d9f19063117743f?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+❌ 抓取失败：https://m.okjike.com/originalPosts/66272f586d9f19063117743f?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+Waiting for selector `#__next > div > div.post-page` failed: Waiting failed: 10000ms exceeded
+🚀 [7/25] 正在抓取：https://m.okjike.com/originalPosts/663b02e638849f879f23cd70?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+❌ 抓取失败：https://m.okjike.com/originalPosts/663b02e638849f879f23cd70?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+Waiting for selector `#__next > div > div.post-page` failed: Waiting failed: 10000ms exceeded
+🚀 [8/25] 正在抓取：https://m.okjike.com/originalPosts/66384c593624666324796d5a?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：“当华美的叶片落尽，生命的脉络才历历可见。”.md
+🚀 [9/25] 正在抓取：https://m.okjike.com/originalPosts/663c4eb26d9f190631a15304?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：一个发财思路啊，国家越鼓励你干什么，你千万不要干什么。鼓励你.md
+🚀 [10/25] 正在抓取：https://m.okjike.com/originalPosts/663c4303345ddff85211e1a2?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：@Airyland 说的这种情况，是在大公司学废了，不会因地.md
+🚀 [11/25] 正在抓取：https://m.okjike.com/originalPosts/663c447932969d0802efd1a9?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：百度副总裁的事儿挺火... 璩（qu）静凭借她自己的暴论短.md
+🚀 [12/25] 正在抓取：https://m.okjike.com/originalPosts/662e55b4de5f2873486cd7ef?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：太好看了呜呜呜好可爱好可爱好可爱.md
+🚀 [13/25] 正在抓取：https://m.okjike.com/originalPosts/6639051c37f7165b21e08d4e?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：旺自己最简单的方法：养磁场 你想要什么样的生活，就要先.md
+🚀 [14/25] 正在抓取：https://m.okjike.com/originalPosts/663ae4aa9185c305d105a9ee?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：老师分析得很透啊.md
+🚀 [15/25] 正在抓取：https://m.okjike.com/originalPosts/663b036212ed2fda6891f4dd?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：永远讨厌无法为自己负责的人.md
+🚀 [16/25] 正在抓取：https://m.okjike.com/originalPosts/6627a27dde5f287348efe4bf?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：上海Lockdown2周年：拒绝遗忘，拒绝原谅，拒绝麻木.md
+🚀 [17/25] 正在抓取：https://m.okjike.com/originalPosts/663a43839185c305d1f8dd6b?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：#我有同理心，当我的心力有余额的时候# 还记得前年年底，我.md
+🚀 [18/25] 正在抓取：https://m.okjike.com/originalPosts/6639f31c164d89e6011fabfa?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：心疼我老板 有我这样一个high maintainence的.md
+🚀 [19/25] 正在抓取：https://m.okjike.com/originalPosts/663afeab439026589cea9d0b?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：三逼认证，竟然觉得有道理😂.md
+🚀 [20/25] 正在抓取：https://m.okjike.com/originalPosts/6639e4f53b9c66cae4bf1343?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：手冲咖啡冲煮指南针及七条经验分享 一、手磨买两百元以上的牌.md
+🚀 [21/25] 正在抓取：https://m.okjike.com/originalPosts/663443abde5f287348d2592c?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：wow ！人气 24小时不停歇 晚上的埌西，应该有不止数百个.md
+🚀 [22/25] 正在抓取：https://m.okjike.com/originalPosts/661fd34cde5f2873485edfcd?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：https___web.dev_learn_hl=zh-cn.md
+🚀 [23/25] 正在抓取：https://m.okjike.com/originalPosts/66373e5a37f7165b21bc7da4?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：海报真好看啊.md
+🚀 [24/25] 正在抓取：https://m.okjike.com/originalPosts/6639953a38849f879f03d4b7?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：Alpuch分享了图片.md
+🚀 [25/25] 正在抓取：https://m.okjike.com/originalPosts/6633858b3624666324274e6a?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：绿色精灵🧚与星星 一起画出属于自己的轨迹.md
+➜  wechat-article-scraper git:(master) ✗
+
+➜  wechat-article-scraper git:(master) ✗ node scrape_jike.js
 🚀 [1/7] 正在抓取：https://m.okjike.com/originalPosts/66443c927d47115946c13c4d?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
 ✅ 成功保存：之前写了一段“沉默者是表达者的红利”，在即刻收到几百点赞：h.md
 🚀 [2/7] 正在抓取：https://m.okjike.com/originalPosts/662e34b56d9f1906319c5707?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
@@ -19,6 +137,14 @@ links
 📥 [1/1] 正在抓取：https://mp.weixin.qq.com/s/-htcvlQ6VDESrXmSAcVl-w
 ✅ 保存成功：articles/一命二运三风水，四积阴德五读书。.md
 
+➜  wechat-article-scraper git:(master) ✗ node scrape_jike.js
+🚀 [1/3] 正在抓取：https://m.okjike.com/originalPosts/67f86cb2536c79fc8f2858ed?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：执行力不足的根本原因是： 「不知道自己卡在哪里」 从近期.md
+🚀 [2/3] 正在抓取：https://m.okjike.com/originalPosts/6640e81912ed2fda680e606b?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：真佛只说平常话。 道理就是那个，用华丽的词汇表述，就像是穿.md
+🚀 [3/3] 正在抓取：https://m.okjike.com/originalPosts/666080f17ba884b2edada2b9?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：what view would you take.md
+➜  wechat-article-scraper git:(master) ✗
 
 
 
