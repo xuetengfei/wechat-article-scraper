@@ -57,7 +57,8 @@ const links = fs
         // 提取图片
         const images = Array.from(document.querySelectorAll('img'))
           .map(img => img.src)
-          .filter(src => !src.includes('thumbnail/120x120')); // 删除缩略图
+          .filter(src => !src.includes('thumbnail/120x120')) // 删除缩略图
+          .filter(src => !src.includes('data:image/svg+xml;base64')); // 删除空白图
 
         return { title, author, time, content, images };
       });
