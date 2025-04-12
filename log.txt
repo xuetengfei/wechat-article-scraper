@@ -1,3 +1,169 @@
+➜  wechat-article-scraper git:(master) ✗ node scrape_jike.js
+🚀 [1/78] 正在抓取：https://m.okjike.com/originalPosts/66223d193b9c66cae411c326?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：是这样 先利他 让自己可被别人使用.md
+🚀 [2/78] 正在抓取：https://m.okjike.com/originalPosts/662b7b9c3b9c66cae4bd6f8e?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：都市生活的战场硝烟，是周五下班电梯里的香水味.md
+🚀 [3/78] 正在抓取：https://m.okjike.com/originalPosts/662b7c696d9f1906316b3a81?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：也是最近发现 信息茧房的墙，真的比我们想的要厚实 某一线大.md
+🚀 [4/78] 正在抓取：https://m.okjike.com/originalPosts/662c3c843b9c66cae4c91c1b?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：一个普通的山东人，可能一辈子都没吃过鲁菜里的代表菜品，葱烧海.md
+🚀 [5/78] 正在抓取：https://m.okjike.com/originalPosts/662c5c743624666324a6bf32?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：老外吐槽挺犀利的。 我也是类似观点，你要是听信了奥特曼的话，.md
+🚀 [6/78] 正在抓取：https://m.okjike.com/originalPosts/6628c11915b20e907c5ccc55?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：我真的破防 都说要搞副业 但副业真这么好搞 岂不是人人都会有.md
+🚀 [7/78] 正在抓取：https://m.okjike.com/originalPosts/662a26d26d9f1906315189eb?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：对大厂真的失望，日均遇到3个“我不知道，我不管这个事儿”的，.md
+🚀 [8/78] 正在抓取：https://m.okjike.com/originalPosts/662bcca938849f879f107abe?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：比起副业，可能更需要 gap year 当时离职后间隔休息.md
+🚀 [9/78] 正在抓取：https://m.okjike.com/originalPosts/662bc77e6d9f190631716bd4?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：我大胆开麦 现在彩妆线都是找看起来是t的人代言了是吧 搞定女.md
+🚀 [10/78] 正在抓取：https://m.okjike.com/originalPosts/6590b9d93af12f55bac73886?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：Day2544~2556 一些四格.md
+🚀 [11/78] 正在抓取：https://m.okjike.com/originalPosts/661e24549185c305d1f28c88?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：千鳥ヶ淵桜.md
+🚀 [12/78] 正在抓取：https://m.okjike.com/originalPosts/66275d23de5f287348e985e1?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：漫无目的在春天里.md
+🚀 [13/78] 正在抓取：https://m.okjike.com/originalPosts/6620d74d37f7165b2126ffe1?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：灵魂不可出售，道德不能定价。 人类的心灵秩序与内在道德，又.md
+🚀 [14/78] 正在抓取：https://m.okjike.com/originalPosts/662366ed3b9c66cae425ebed?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：「你心爱的花朵瞬间凋谢」.md
+🚀 [15/78] 正在抓取：https://m.okjike.com/originalPosts/6624dd8b6d9f190631ed0937?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：解惑了“他人即地狱”的含义：指当我们被他人的看法和期望所束缚.md
+🚀 [16/78] 正在抓取：https://m.okjike.com/originalPosts/662a9d533b9c66cae4ad06e3?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：这个平台上谈论的“认知”，大半只是“技术自由主义思潮”。.md
+🚀 [17/78] 正在抓取：https://m.okjike.com/originalPosts/662b0472de5f2873482dd9e4?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+❌ 抓取失败：https://m.okjike.com/originalPosts/662b0472de5f2873482dd9e4?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+Waiting for selector `#__next > div > div.post-page` failed: Waiting failed: 10000ms exceeded
+🚀 [18/78] 正在抓取：https://m.okjike.com/originalPosts/661d2677de5f2873482b6d46?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：子曰：不知其人而言，谓之失言.md
+🚀 [19/78] 正在抓取：https://m.okjike.com/originalPosts/66273bb70d2b90255871b5c5?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：如果你关心clouldfare的如下11条问题，一定不要错过.md
+🚀 [20/78] 正在抓取：https://m.okjike.com/originalPosts/66299f723b9c66cae4974bfa?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：有房一族，家庭最大的资产减损每天都在发生中，可能远大于你每天.md
+🚀 [21/78] 正在抓取：https://m.okjike.com/originalPosts/662795c6de5f287348eed06b?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：这就是我今天想表达的… 一个“职业规划师”讲 “30 岁职.md
+🚀 [22/78] 正在抓取：https://m.okjike.com/originalPosts/6629b7cb6d9f190631472946?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：💜了解自己的自爱程度，可以从以下5个维度寻找线索： 🟣.md
+🚀 [23/78] 正在抓取：https://m.okjike.com/originalPosts/66288d5d3b9c66cae4845a32?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：现在年轻人把公司想得太简单，也太复杂了。 想得太简单，意思.md
+🚀 [24/78] 正在抓取：https://m.okjike.com/originalPosts/6623dc6536246663240ab4ce?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+❌ 抓取失败：https://m.okjike.com/originalPosts/6623dc6536246663240ab4ce?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+Waiting for selector `#__next > div > div.post-page` failed: Waiting failed: 10000ms exceeded
+🚀 [25/78] 正在抓取：https://m.okjike.com/originalPosts/66239e9438849f879f76edc8?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：泪目...这就是真实的人生 这个年龄的人羡慕那个年龄 这个.md
+🚀 [26/78] 正在抓取：https://m.okjike.com/originalPosts/662087e93624666324c9bbe8?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：工作了三年多，才亲身体会到什么叫“拉群和@”：内部推进横向项.md
+🚀 [27/78] 正在抓取：https://m.okjike.com/originalPosts/6620ce88a922aa28d02f4737?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：谁破防了我不说.md
+🚀 [28/78] 正在抓取：https://m.okjike.com/originalPosts/6620f2176d9f190631a60776?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：我说你们别太信title了，别xxx是炒币的，xxx是前营销.md
+🚀 [29/78] 正在抓取：https://m.okjike.com/originalPosts/661c98c2a922aa28d0dcbfc5?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：普通人难道不是可怜地任人宰割吗？！.md
+🚀 [30/78] 正在抓取：https://m.okjike.com/originalPosts/661e83453624666324a52da5?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：『业务分析之模块拆解』 一个完整的项目，初期只是业务方脑中.md
+🚀 [31/78] 正在抓取：https://m.okjike.com/originalPosts/661e443938849f879f10cd44?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：我觉得我给 -1 喂的饼是可以吃的 首先我绩效给的就是高，.md
+🚀 [32/78] 正在抓取：https://m.okjike.com/originalPosts/661e77cd3624666324a42757?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：1、职场上“对事不对人”的潜台词就是“我踏马针对的就是你”，.md
+🚀 [33/78] 正在抓取：https://m.okjike.com/originalPosts/661e05f5fce1cfabdc432bab?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：现在是掉关注时间～.md
+🚀 [34/78] 正在抓取：https://m.okjike.com/originalPosts/661b535e12ed2fda684458ea?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：​色卡上难以定义的蓝与绿 ​仿佛世界的尽头.md
+🚀 [35/78] 正在抓取：https://m.okjike.com/originalPosts/661e01f3fce1cfabdc42c731?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：真实.md
+🚀 [36/78] 正在抓取：https://m.okjike.com/originalPosts/661e326638849f879f0f3c10?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：干了这碗鸡汤！.md
+🚀 [37/78] 正在抓取：https://m.okjike.com/originalPosts/661da9eb164d89e60115ad28?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：人之所以能，是相信能。by 刘能.md
+🚀 [38/78] 正在抓取：https://m.okjike.com/originalPosts/661bb77537f7165b21c43517?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：在大同云冈石窟的千佛殿金字楹联： 天下事了犹未了，何妨以不了.md
+🚀 [39/78] 正在抓取：https://m.okjike.com/originalPosts/6618a79012ed2fda680f8490?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：对顺应时代这样的话过敏.md
+🚀 [40/78] 正在抓取：https://m.okjike.com/originalPosts/661c883d6d9f1906314ec3b9?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：“是你的问题，不是我的问题，不要混为一谈，不过也许有一天我的.md
+🚀 [41/78] 正在抓取：https://m.okjike.com/originalPosts/661abc8d37f7165b21b306c7?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：拧巴.md
+🚀 [42/78] 正在抓取：https://m.okjike.com/originalPosts/661ab96a37f7165b21b2d22a?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：“请兴致勃勃的去失败”.md
+🚀 [43/78] 正在抓取：https://m.okjike.com/originalPosts/660e4c5812ed2fda6850c6c3?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：分享一下「永久笔记成熟度标签体系」.md
+🚀 [44/78] 正在抓取：https://m.okjike.com/originalPosts/661b9f3838849f879fdddc99?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：“你不能期望所有人都喜欢你” “你应该等着别人讨厌你然后恶.md
+🚀 [45/78] 正在抓取：https://m.okjike.com/originalPosts/6618c66738849f879fa58f66?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：喜提职业生涯中的第一个绩效C 客观来说我觉得不至于吧。但我.md
+🚀 [46/78] 正在抓取：https://m.okjike.com/originalPosts/661b879fa922aa28d0c94ad3?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：是我.md
+🚀 [47/78] 正在抓取：https://m.okjike.com/originalPosts/6616bbd83b9c66cae431ff9d?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+❌ 抓取失败：https://m.okjike.com/originalPosts/6616bbd83b9c66cae431ff9d?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+Waiting for selector `#__next > div > div.post-page` failed: Waiting failed: 10000ms exceeded
+🚀 [48/78] 正在抓取：https://m.okjike.com/originalPosts/66177cda37f7165b216ee245?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：曲曲这种「运用价值观」做产品的获客、转化、交付的生意真不错。.md
+🚀 [49/78] 正在抓取：https://m.okjike.com/originalPosts/66181d1c9185c305d17e147b?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：真正厉害的人，尤其营销人，都在做实际的业务，而不是卖课、开行.md
+🚀 [50/78] 正在抓取：https://m.okjike.com/originalPosts/661759b03b9c66cae43af376?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：我这情商还是不适合在大厂混，早上跟战略开了个会讨论做的这么好.md
+🚀 [51/78] 正在抓取：https://m.okjike.com/originalPosts/66166539a922aa28d064d44b?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：残忍又好笑.md
+🚀 [52/78] 正在抓取：https://m.okjike.com/originalPosts/660fc5e43b9c66cae4b048bd?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：人间清醒.md
+🚀 [53/78] 正在抓取：https://m.okjike.com/originalPosts/661389063b9c66cae4f479a1?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：1. 运动和阅读一样，必须天天有，滚雪球，不进则退 2. 内.md
+🚀 [54/78] 正在抓取：https://m.okjike.com/originalPosts/6614d197a922aa28d0463dea?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：职场上如何一鱼多吃？分享下我的经验。 把工作中遇到的各种破.md
+🚀 [55/78] 正在抓取：https://m.okjike.com/originalPosts/6612aca812ed2fda689f5d02?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：咖啡狂人阿蔡分享了图片.md
+🚀 [56/78] 正在抓取：https://m.okjike.com/originalPosts/65f2f9d99185c305d1d3275b?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：人这一生的职业生涯，最怕的就是没有积累。 我们常说一个人3.md
+🚀 [57/78] 正在抓取：https://m.okjike.com/originalPosts/660d3ae53624666324619a76?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：Ad-astra分享了图片.md
+🚀 [58/78] 正在抓取：https://m.okjike.com/originalPosts/661204f138849f879f23c889?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：我们公司卫生大姐在整理废纸箱卖，她正往每一片纸皮上浇水。.md
+🚀 [59/78] 正在抓取：https://m.okjike.com/originalPosts/660c2eaf3b9c66cae472be81?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：人生第一篇10w➕让我深刻明白世界是个草台班子。 朋友转发.md
+🚀 [60/78] 正在抓取：https://m.okjike.com/originalPosts/660cdc9a3624666324593692?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：地球猫猫教预备役役长分享了图片.md
+🚀 [61/78] 正在抓取：https://m.okjike.com/originalPosts/65fe25f13624666324494886?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：公司同楼层有个女生感觉很不错，衣品洋气且接地，外表一丝冷酷且.md
+🚀 [62/78] 正在抓取：https://m.okjike.com/originalPosts/660262bc362466632496295d?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：这网课什么时候结束🍵.md
+🚀 [63/78] 正在抓取：https://m.okjike.com/originalPosts/66058949164d89e601575c63?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：去聊了一个面试机会，跟老板聊完天，我果断放弃了这个机会。让我.md
+🚀 [64/78] 正在抓取：https://m.okjike.com/originalPosts/6604b4f137f7165b2115aff2?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：那天我跟朋友说：现在我看到别人身上的缺点，不足，甚至痛苦脆弱.md
+🚀 [65/78] 正在抓取：https://m.okjike.com/originalPosts/65ffd057de5f287348079be7?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：23年12月22日起的稿子，一直没发出来（觉得不太熟吧）。昨.md
+🚀 [66/78] 正在抓取：https://m.okjike.com/originalPosts/660609c1de5f2873487b807d?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：🔲🔳❤️ 黑白 白黑 和 爱 世界是灰色的 没有非黑即白.md
+🚀 [67/78] 正在抓取：https://m.okjike.com/originalPosts/65fcfe69f7d7e9ed644779b8?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+❌ 抓取失败：https://m.okjike.com/originalPosts/65fcfe69f7d7e9ed644779b8?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+Waiting for selector `#__next > div > div.post-page` failed: Waiting failed: 10000ms exceeded
+🚀 [68/78] 正在抓取：https://m.okjike.com/originalPosts/65fcfe69f7d7e9ed644779b8?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+❌ 抓取失败：https://m.okjike.com/originalPosts/65fcfe69f7d7e9ed644779b8?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+Waiting for selector `#__next > div > div.post-page` failed: Waiting failed: 10000ms exceeded
+🚀 [69/78] 正在抓取：https://m.okjike.com/originalPosts/65dc55f5de5f28734866cdbb?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：当一只拉磨的驴挺好的，不要当有思想的牛马.md
+🚀 [70/78] 正在抓取：https://m.okjike.com/originalPosts/65e81dea9185c305d1014e89?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：成长过程经历过被忽视的孩子，成年后往往会对“维持正常的生活”.md
+🚀 [71/78] 正在抓取：https://m.okjike.com/originalPosts/65ea68993b9c66cae4fb2c7b?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：这个挺赞同的，买云服务，就是花钱买别人提供的运维服务。 所以.md
+🚀 [72/78] 正在抓取：https://m.okjike.com/originalPosts/65eeed98164d89e601afef1d?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：一般遇到能长期彼此聊数个小时而不觉乏味，且彼此教育水平和生活.md
+🚀 [73/78] 正在抓取：https://m.okjike.com/originalPosts/65f50e4f38849f879f131fe7?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：怜爱是一种精神上的俯视.md
+🚀 [74/78] 正在抓取：https://m.okjike.com/originalPosts/65f4d900164d89e6011fc842?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：荒塘分享了图片.md
+🚀 [75/78] 正在抓取：https://m.okjike.com/originalPosts/65f6b7573b9c66cae4e2df99?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：招助理，月薪三千，工作内容每个月帮我挣三万八。.md
+🚀 [76/78] 正在抓取：https://m.okjike.com/originalPosts/65f178d112ed2fda683d6a01?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：普通人工作经验的积累，主要靠统计拟合。 遇到已知问题，进行.md
+🚀 [77/78] 正在抓取：https://m.okjike.com/originalPosts/65eeab44164d89e601a9a993?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：奥斯卡最新梗图。 基莲拿奖，小李子躺枪。.md
+🚀 [78/78] 正在抓取：https://m.okjike.com/originalPosts/65c81d3336246663244435a7?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：世界不是被精巧计算的，世界是徐徐展开的。所以那些精致的利己主.md
+➜  wechat-article-scraper git:(master) ✗
+
+
+
 📥 [1/4] 正在抓取：https://mp.weixin.qq.com/s/5c2ZIGveLTYNxZr8kkp-Bw
 ❌ 抓取失败：https://mp.weixin.qq.com/s/5c2ZIGveLTYNxZr8kkp-Bw
 Cannot read properties of undefined (reading 'replace')
