@@ -1,3 +1,336 @@
+📥 [1/4] 正在抓取：https://mp.weixin.qq.com/s/5c2ZIGveLTYNxZr8kkp-Bw
+❌ 抓取失败：https://mp.weixin.qq.com/s/5c2ZIGveLTYNxZr8kkp-Bw
+Cannot read properties of undefined (reading 'replace')
+📥 [2/4] 正在抓取：https://mp.weixin.qq.com/s/AmInjGBKhf_Jgq3VKAyMsg
+✅ 保存成功：articles/“高质量男女”相亲记.md
+📥 [3/4] 正在抓取：https://mp.weixin.qq.com/s/OtHj45QKoF9QNiGxFXBd_g
+✅ 保存成功：articles/这届“成分党”，开始卷咖啡了.md
+📥 [4/4] 正在抓取：https://mp.weixin.qq.com/s/IVVIr_CgJK0mddSHmOZOow
+✅ 保存成功：articles/为什么露肚脐，会给人一种性感的感觉？.md
+➜  wechat-article-scraper git:(master) ✗ 
+
+
+
+➜  wechat-article-scraper git:(master) ✗ node scrape_jike.js
+🚀 [1/96] 正在抓取：https://m.okjike.com/originalPosts/6642e1a70a5cbfb896159bcd?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：塔勒布书里提到： 大多数人都不识货（山猪吃不了细糠） 人们眼.md
+🚀 [2/96] 正在抓取：https://m.okjike.com/originalPosts/663c7c3e6d9f190631a5c451?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+❌ 抓取失败：https://m.okjike.com/originalPosts/663c7c3e6d9f190631a5c451?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+Waiting for selector `#__next > div > div.post-page` failed: Waiting failed: 10000ms exceeded
+🚀 [3/96] 正在抓取：https://m.okjike.com/originalPosts/6644d4d469ab44e581644f5c?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：#瑞士-2.md
+🚀 [4/96] 正在抓取：https://m.okjike.com/originalPosts/6644d3802421ceb48a20103e?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：时光悠悠 夏日静谧安详.md
+🚀 [5/96] 正在抓取：https://m.okjike.com/originalPosts/6641e109c2cb62a29e130a54?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：从现在开始，你只需要在乎三件事：你自己、你的钱、你的内心平静.md
+🚀 [6/96] 正在抓取：https://m.okjike.com/originalPosts/664599f90a5cbfb8964f19a2?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：和一位大厂出来的创业者聊天，几个人团队能做到几千万营收，很舒.md
+🚀 [7/96] 正在抓取：https://m.okjike.com/originalPosts/6643452bf1a49bf530583c42?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：谢谢心理学 - 原来我这是间歇性厌人症.md
+🚀 [8/96] 正在抓取：https://m.okjike.com/originalPosts/6644a4700a5cbfb8963bc2dd?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：今日最佳.md
+🚀 [9/96] 正在抓取：https://m.okjike.com/originalPosts/664474cf9e2e9fda0290e218?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：有没有哪个时刻，你感受到了阶层的真实存在？.md
+🚀 [10/96] 正在抓取：https://m.okjike.com/originalPosts/664485ad9e2e9fda029286f9?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：十三邀出了关于陈嘉映老师的纪录片，看了两集，完全能够理解陈老.md
+🚀 [11/96] 正在抓取：https://m.okjike.com/originalPosts/6636e78a164d89e601e38f59?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：LogicFlow,灵活的流程图编辑框架 🛠 工具推荐：.md
+🚀 [12/96] 正在抓取：https://m.okjike.com/originalPosts/663c9e95345ddff8521ab12f?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：如何找到自己的风格？ 也许当你走得足够远、足够专心，风格就会.md
+🚀 [13/96] 正在抓取：https://m.okjike.com/originalPosts/6631faeb164d89e60191f592?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：汉尼拔觉得你需要改正缺点.md
+🚀 [14/96] 正在抓取：https://m.okjike.com/originalPosts/66375def3b9c66cae48e0cd1?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：如何结交爱你更优秀的人 新发现：找个有帆书会员的伙伴，共享.md
+🚀 [15/96] 正在抓取：https://m.okjike.com/originalPosts/65b127499185c305d1ea5e2c?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：学和习是两回事儿。 “学”是简单的，无非是建立认知，想弄懂.md
+🚀 [16/96] 正在抓取：https://m.okjike.com/originalPosts/66361a4aa922aa28d0b1b831?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：🫗 拥有了一段未曾真实发生过 和夏天_海水_小镇擦肩而过的.md
+🚀 [17/96] 正在抓取：https://m.okjike.com/originalPosts/663b4ccf3a767b9231d54238?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：母子之间，甚至更甚。 这样的家庭往往都有一个缺位的父亲，和一.md
+🚀 [18/96] 正在抓取：https://m.okjike.com/originalPosts/66276b9dde5f287348eaddc6?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：「旅行和生活都不是为了去某个地方，而是为了尽可能高兴又丰富地.md
+🚀 [19/96] 正在抓取：https://m.okjike.com/originalPosts/663c92fb32969d0802f765f5?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：今天看到一个热搜#妙可蓝多市值三年蒸发365亿#。想起来过去.md
+🚀 [20/96] 正在抓取：https://m.okjike.com/originalPosts/6638f5269185c305d1df2c7c?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：看完马斯克传，印证了之前读到的一个观点：想让一件事以最高效率.md
+🚀 [21/96] 正在抓取：https://m.okjike.com/originalPosts/6634c897a922aa28d09b3846?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：踩了4小时油门回泉州看日落.md
+🚀 [22/96] 正在抓取：https://m.okjike.com/originalPosts/663a3211a922aa28d0fff5dd?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：一个总是萦绕在心中的问题_ 我和生产队的驴有什么区别？.md
+🚀 [23/96] 正在抓取：https://m.okjike.com/originalPosts/6466dbf83fca476ea52b2e11?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：人生有几个二十五岁.md
+🚀 [24/96] 正在抓取：https://m.okjike.com/originalPosts/651bf1e8c70326f2ebb14caf?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：真的巴适，干杯.md
+🚀 [25/96] 正在抓取：https://m.okjike.com/originalPosts/65dc55f5de5f28734866cdbb?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：当一只拉磨的驴挺好的，不要当有思想的牛马.md
+🚀 [26/96] 正在抓取：https://m.okjike.com/originalPosts/6638c355a922aa28d0e37f7d?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：不知道从什么时候开始，“事事有回应”这种基本常识，都变成职场.md
+🚀 [27/96] 正在抓取：https://m.okjike.com/originalPosts/66343594a922aa28d08fdb51?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：“在古罗马，妓院是合法的，但受限制，法律规定只能设在城墙之外.md
+🚀 [28/96] 正在抓取：https://m.okjike.com/originalPosts/6634ea15164d89e601c31d90?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：#grsnaps.md
+🚀 [29/96] 正在抓取：https://m.okjike.com/originalPosts/662f76d19185c305d1372cdf?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：这个AI项目还挺有意思的，一个人就是一个团队。.md
+🚀 [30/96] 正在抓取：https://m.okjike.com/originalPosts/6627757736246663244b7a7b?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：东京很忙.md
+🚀 [31/96] 正在抓取：https://m.okjike.com/originalPosts/6639b3583624666324956f77?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：没开玩笑，读《在西伯利亚森林中》，我也想隐居山林一段儿日子。.md
+🚀 [32/96] 正在抓取：https://m.okjike.com/originalPosts/6639b2c038849f879f06a4db?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：今天电商买的蛏子真的好小哦，还好肉质还算可以.md
+🚀 [33/96] 正在抓取：https://m.okjike.com/originalPosts/662e07e337f7165b211c028e?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+❌ 抓取失败：https://m.okjike.com/originalPosts/662e07e337f7165b211c028e?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+Waiting for selector `#__next > div > div.post-page` failed: Waiting failed: 10000ms exceeded
+🚀 [34/96] 正在抓取：https://m.okjike.com/originalPosts/6638961c37f7165b21d6a9b6?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：阿祖表情包经典款.md
+🚀 [35/96] 正在抓取：https://m.okjike.com/originalPosts/663380ad164d89e601ab198b?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：#grsnaps 在东京大风大雨后的一个好天气和朋友在代官.md
+🚀 [36/96] 正在抓取：https://m.okjike.com/originalPosts/663818453b9c66cae499d433?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：柚子现身说法.md
+🚀 [37/96] 正在抓取：https://m.okjike.com/originalPosts/66387c0dde5f2873481e53de?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：小岛不孤单，有朵云陪它。.md
+🚀 [38/96] 正在抓取：https://m.okjike.com/originalPosts/6638b5d212ed2fda6862d38f?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：今天和一个私教分享我对裁员的理解。很多大厂P9或者P10，3.md
+🚀 [39/96] 正在抓取：https://m.okjike.com/originalPosts/6637cc57164d89e601f61d91?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：周日早安.md
+🚀 [40/96] 正在抓取：https://m.okjike.com/originalPosts/6637a21cb1b05c677ef72b26?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：奈何明月分享了图片.md
+🚀 [41/96] 正在抓取：https://m.okjike.com/originalPosts/6639a898a922aa28d0f361a8?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：普通网友约博主喝咖啡，去不去？ 摆明了有事问你，有具体的麻烦.md
+🚀 [42/96] 正在抓取：https://m.okjike.com/originalPosts/6634e3883b9c66cae4638e38?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：“有的人15岁就休眠了，至今未激活。”.md
+🚀 [43/96] 正在抓取：https://m.okjike.com/originalPosts/6639125d9185c305d1e14e5b?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：最近一直有一种想法：绝大多数人的绝大多数工作对人类这个整体的.md
+🚀 [44/96] 正在抓取：https://m.okjike.com/originalPosts/663991ab38849f879f03816b?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：记性不够，日常来凑。.md
+🚀 [45/96] 正在抓取：https://m.okjike.com/originalPosts/66379c5338849f879fdfa8bb?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：家蒙分享了图片.md
+🚀 [46/96] 正在抓取：https://m.okjike.com/originalPosts/6624cee36d9f190631ebd53c?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+❌ 抓取失败：https://m.okjike.com/originalPosts/6624cee36d9f190631ebd53c?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+Waiting for selector `#__next > div > div.post-page` failed: Waiting failed: 10000ms exceeded
+🚀 [47/96] 正在抓取：https://m.okjike.com/originalPosts/6634f7f29185c305d1964d7e?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：工作不是旷野，是垂直 前几天看有博主分享，如何在就业中，建.md
+🚀 [48/96] 正在抓取：https://m.okjike.com/originalPosts/661105c538849f879f128746?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：平台推荐算法一旦由资本主导，那将必然走向「无价值观」的极端。.md
+🚀 [49/96] 正在抓取：https://m.okjike.com/originalPosts/661fe0233624666324bfaa63?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：哈哈哈哈呜呜呜呜.md
+🚀 [50/96] 正在抓取：https://m.okjike.com/originalPosts/66156eea6d9f190631c72dc0?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：“所以看起来对他人不苛刻的人，审判对象是自己。” 《蛤蟆先生.md
+🚀 [51/96] 正在抓取：https://m.okjike.com/originalPosts/661f9ef512ed2fda68983848?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：握草，原来这就是统计科学.md
+🚀 [52/96] 正在抓取：https://m.okjike.com/originalPosts/661e9c383624666324a75661?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：真的是这样🥲.md
+🚀 [53/96] 正在抓取：https://m.okjike.com/originalPosts/6621dc5f6d9f190631b63e23?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：再次证明，打工都是为了取悦老板，跟做多少数据，干多少活儿不完.md
+🚀 [54/96] 正在抓取：https://m.okjike.com/originalPosts/663094c138849f879f6671c1?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：刚才跟之前的老板，一个老阿里（电商搜索算法）吃饭聊天，有启发.md
+🚀 [55/96] 正在抓取：https://m.okjike.com/originalPosts/662ddcda3b9c66cae4e6c92b?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+❌ 抓取失败：https://m.okjike.com/originalPosts/662ddcda3b9c66cae4e6c92b?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+Waiting for selector `#__next > div > div.post-page` failed: Waiting failed: 10000ms exceeded
+🚀 [56/96] 正在抓取：https://m.okjike.com/originalPosts/662f6ced37f7165b21364323?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：今天看到这句话，真的是醒悟的太晚了😭 “写作”与“写作灵.md
+🚀 [57/96] 正在抓取：https://m.okjike.com/originalPosts/663786b86d9f1906313f4a04?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：走在巴厘岛时有时无的人行道上，同时还要躲开时刻川流不息的汽车.md
+🚀 [58/96] 正在抓取：https://m.okjike.com/originalPosts/66364297de5f287348f670d1?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：…讨好型人格在车厢里看书不敢打开阅读灯.md
+🚀 [59/96] 正在抓取：https://m.okjike.com/originalPosts/6631e6a5a922aa28d06b42ae?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：或许， 一个人之所以抑郁， 是因为： a.转而向内的愤怒 b.md
+🚀 [60/96] 正在抓取：https://m.okjike.com/originalPosts/662e41c4de5f2873486b3807?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：哪里不是全景敞式！？.md
+🚀 [61/96] 正在抓取：https://m.okjike.com/originalPosts/6637d084de5f287348122cfb?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：对A沉默是金，对B热情似火； 对C易燃易爆，对D聆听接纳；.md
+🚀 [62/96] 正在抓取：https://m.okjike.com/originalPosts/6635a955a922aa28d0a8e67a?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：精密计算的谎言与绝对真相同样有力.md
+🚀 [63/96] 正在抓取：https://m.okjike.com/originalPosts/66338f1ba922aa28d086fccb?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：头痛耳鸣，虚无绝望，找不到出口。.md
+🚀 [64/96] 正在抓取：https://m.okjike.com/originalPosts/6627cf0e37f7165b21a9282f?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：wcplusPro 是一款做了5年的公众号数据分析软件，轻轻.md
+🚀 [65/96] 正在抓取：https://m.okjike.com/originalPosts/66350a92de5f287348e1fa84?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：我是性格急躁稳不住性子的人，我会随着事件不受控制地发展而感到.md
+🚀 [66/96] 正在抓取：https://m.okjike.com/originalPosts/662eee5f12ed2fda68b388d4?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：罗技鼠标优雅的快捷设置，桌面快捷切换轻松的摸鱼。.md
+🚀 [67/96] 正在抓取：https://m.okjike.com/originalPosts/6635cbd236246663244cb63f?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：可乐雪碧要加冰分享了图片.md
+🚀 [68/96] 正在抓取：https://m.okjike.com/originalPosts/663596a438849f879fb9c445?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：等了两个月的机位，终于开灯了.md
+🚀 [69/96] 正在抓取：https://m.okjike.com/originalPosts/66388ef2164d89e601042a4b?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：突然有种“绝”的感觉.md
+🚀 [70/96] 正在抓取：https://m.okjike.com/originalPosts/66379cf29185c305d1c4a143?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：我现在对同事及我生活中大多数人的态度如下图，我发现对牛不弹琴.md
+🚀 [71/96] 正在抓取：https://m.okjike.com/originalPosts/663650319185c305d1ad6e05?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：今日份广东笑话🤣.md
+🚀 [72/96] 正在抓取：https://m.okjike.com/originalPosts/6636068f12ed2fda683054f6?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：服了 天天开会 真是没事找事.md
+🚀 [73/96] 正在抓取：https://m.okjike.com/originalPosts/663826b86d9f19063148c83a?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：成年人的成熟不是“认清了生活的真相仍笑脸相迎”，而是接受荒诞.md
+🚀 [74/96] 正在抓取：https://m.okjike.com/originalPosts/66358bec362466632447ade9?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：下次别问在干嘛呢 直接说事儿，忙…🤫.md
+🚀 [75/96] 正在抓取：https://m.okjike.com/originalPosts/6632710e164d89e6019aad39?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：群友总结当代某些女性双标现场 1. 高知女性 自由恋爱 父母.md
+🚀 [76/96] 正在抓取：https://m.okjike.com/originalPosts/663705ad37f7165b21b7df13?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：为什么总有人会被捞男_捞女盯上，因为太过于老实，太容易被人看.md
+🚀 [77/96] 正在抓取：https://m.okjike.com/originalPosts/663727293b9c66cae4896e33?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：绝！！！学习🤓.md
+🚀 [78/96] 正在抓取：https://m.okjike.com/originalPosts/663778d036246663246b35bd?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：小糖酱分享了图片.md
+🚀 [79/96] 正在抓取：https://m.okjike.com/originalPosts/6631bbb9a922aa28d068126f?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：思考是有带宽区别的， 大脑是有系统级别的。.md
+🚀 [80/96] 正在抓取：https://m.okjike.com/originalPosts/66388e5337f7165b21d5f707?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：小糖酱分享了图片.md
+🚀 [81/96] 正在抓取：https://m.okjike.com/originalPosts/6635f1aa12ed2fda682ea9ba?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：海边的城市总是能带给人惊喜🌊.md
+🚀 [82/96] 正在抓取：https://m.okjike.com/originalPosts/66268c399185c305d1919612?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：读书很真切的改变了我，它让我更好的成为了自己，也让我成为了更.md
+🚀 [83/96] 正在抓取：https://m.okjike.com/originalPosts/662235093b9c66cae41104b9?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：不知道现在的人怎么回事，以为 200w 很好赚吗？ 开口闭口.md
+🚀 [84/96] 正在抓取：https://m.okjike.com/originalPosts/662759b0362466632448e4b7?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：最会骗人的人，到底拿捏了哪些人性_ 之前看到美国历史上最著.md
+🚀 [85/96] 正在抓取：https://m.okjike.com/originalPosts/663182cd6d9f190631d78576?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：五月第一天，分享一些最近生活上的零散感悟。 1：人若无名，.md
+🚀 [86/96] 正在抓取：https://m.okjike.com/originalPosts/6633787937f7165b217c996f?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：稍微明白与别人说话被白嫖的意思 当一人段位比自己低自己跟她讲.md
+🚀 [87/96] 正在抓取：https://m.okjike.com/originalPosts/662c740137f7165b21fece83?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：中国的「吃苦文化」怎么来的？.md
+🚀 [88/96] 正在抓取：https://m.okjike.com/originalPosts/662c740137f7165b21fece83?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：中国的「吃苦文化」怎么来的？.md
+🚀 [89/96] 正在抓取：https://m.okjike.com/originalPosts/6631fb1712ed2fda68ecbc20?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+❌ 抓取失败：https://m.okjike.com/originalPosts/6631fb1712ed2fda68ecbc20?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+Waiting for selector `#__next > div > div.post-page` failed: Waiting failed: 10000ms exceeded
+🚀 [90/96] 正在抓取：https://m.okjike.com/originalPosts/663061f86d9f190631c2d1ca?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+❌ 抓取失败：https://m.okjike.com/originalPosts/663061f86d9f190631c2d1ca?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+Waiting for selector `#__next > div > div.post-page` failed: Waiting failed: 10000ms exceeded
+🚀 [91/96] 正在抓取：https://m.okjike.com/originalPosts/662fd9a1de5f28734888ddf9?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：GitHub 正式推出 GitHub Copilot Wor.md
+🚀 [92/96] 正在抓取：https://m.okjike.com/originalPosts/66322b3e3b9c66cae43653c8?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：如果要玩这个游戏，一开始就要清楚三件事情：游戏规则、奖励与惩.md
+🚀 [93/96] 正在抓取：https://m.okjike.com/originalPosts/661dd486fce1cfabdc3e7a62?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：很同意很同意.md
+🚀 [94/96] 正在抓取：https://m.okjike.com/originalPosts/6630a9ba9185c305d14d4fa8?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：“数据”来看，这绝对是被低估的一期，节前再发一下，感兴趣可以.md
+🚀 [95/96] 正在抓取：https://m.okjike.com/originalPosts/6631ac6738849f879f794757?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：你的擦边和矜持都不够纯粹，所以你对流量感到痛苦。.md
+🚀 [96/96] 正在抓取：https://m.okjike.com/originalPosts/6630d05938849f879f6bfaf3?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：推荐两个好用的旅行规划工具 简直J人福音，每次规划行程都只.md
+➜  wechat-article-scraper git:(master) ✗
+
+
+
+➜  wechat-article-scraper git:(master) ✗ node scrape_batch.js
+links
+📥 [1/6] 正在抓取：https://mp.weixin.qq.com/s/6rlhOEKo2dF3kc4cGwHzgQ
+✅ 保存成功：articles/有钱后才知道的真相.md
+📥 [2/6] 正在抓取：https://mp.weixin.qq.com/s/0pEDnYxjluB1qFwon-WGnA
+✅ 保存成功：articles/沉默的二本学生，困在出路里.md
+📥 [3/6] 正在抓取：https://mp.weixin.qq.com/s/JP7RfruVzs7lEFCcLPBR8A
+✅ 保存成功：articles/“我没有热爱这里，我只是出生在这个地方”.md
+📥 [4/6] 正在抓取：https://mp.weixin.qq.com/s/aUMaVFAiYmATPNGvvikwGA
+✅ 保存成功：articles/为什么有钱男人，都爱「金丝眼镜」？.md
+📥 [5/6] 正在抓取：https://mp.weixin.qq.com/s/BFF_9UnN3rOtSjtphU-7hA
+✅ 保存成功：articles/能打败特朗普的，只有第二天的特朗普.md
+📥 [6/6] 正在抓取：https://mp.weixin.qq.com/s/rRC0RmlHJ1Eg0ktjyzXFvg
+✅ 保存成功：articles/【早说】有效的职场沟通模式：DESC模式.md
+➜  wechat-article-scraper git:(master) ✗ node scrape_jike.js
+🚀 [1/20] 正在抓取：https://m.okjike.com/originalPosts/6649b926ed3a0338ca273b1d?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：原研哉对碎片化信息的理解。 虽然今天的世界据说处在一种信息.md
+🚀 [2/20] 正在抓取：https://m.okjike.com/originalPosts/66310b3e37f7165b2155b0bb?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：为什么读书是普通人最好的成长方式？ 输入的质量决定了一个人.md
+🚀 [3/20] 正在抓取：https://m.okjike.com/originalPosts/663b28093b9c66cae4db249a?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：学会忍耐。 因为对你突然发火的人，你不知道他在心里忍了你多.md
+🚀 [4/20] 正在抓取：https://m.okjike.com/originalPosts/658707a579cb2b9f353876f6?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：贝索斯_ 人类不是一个想知道真相的动物，而是一个社会动物.md
+🚀 [5/20] 正在抓取：https://m.okjike.com/originalPosts/658643ca34cced9e3157dae4?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：度冷不丁分享了图片.md
+🚀 [6/20] 正在抓取：https://m.okjike.com/originalPosts/6583b31b71cfacf6098bfb5a?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：真正好的向上汇报，一定是简与精 转眼到了2023年底。年终.md
+🚀 [7/20] 正在抓取：https://m.okjike.com/originalPosts/6581d3ababd4694727a65bab?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+❌ 抓取失败：https://m.okjike.com/originalPosts/6581d3ababd4694727a65bab?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+Waiting for selector `#__next > div > div.post-page` failed: Waiting failed: 10000ms exceeded
+🚀 [8/20] 正在抓取：https://m.okjike.com/originalPosts/65709c5dd027b7ac8cc9d6a8?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：今天听播客纵横四海，Melody在结尾说的一句话让我启发非常.md
+🚀 [9/20] 正在抓取：https://m.okjike.com/originalPosts/657c0c1b8a7c5ba8aebf9afc?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：我：你多年前是不是办过一个轰动全国的案子。 上司：不提了。.md
+🚀 [10/20] 正在抓取：https://m.okjike.com/originalPosts/65757c73abd4694727af4e0f?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：哈哈 与朋友们共勉.md
+🚀 [11/20] 正在抓取：https://m.okjike.com/originalPosts/65772265979083134a97f017?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：招人的逻辑： 1. 老板自己会做，但是忙不过来，需要找人替.md
+🚀 [12/20] 正在抓取：https://m.okjike.com/originalPosts/65668be634ae48b9be4cf86a?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：多聊两句芒格： 1、芒格在中国的受欢迎程度，在投资界，类似于.md
+🚀 [13/20] 正在抓取：https://m.okjike.com/originalPosts/65a95920de5f287348a011ab?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：跟高管姐姐聊完天的感觉是，如沐春风，不徐不疾。 她说，最近.md
+🚀 [14/20] 正在抓取：https://m.okjike.com/originalPosts/65a36f179185c305d1e0a50b?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：做许多的无用之事 忘了许多走过的路 过段时间，我就不再记得.md
+🚀 [15/20] 正在抓取：https://m.okjike.com/originalPosts/65ab99786a003e109c9e9312?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+❌ 抓取失败：https://m.okjike.com/originalPosts/65ab99786a003e109c9e9312?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+Waiting for selector `#__next > div > div.post-page` failed: Waiting failed: 10000ms exceeded
+🚀 [16/20] 正在抓取：https://m.okjike.com/originalPosts/65ae47cede5f287348fc0bfb?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：越自信的人越容易在互联网上获得关注。 自媒体博主是这样，直.md
+🚀 [17/20] 正在抓取：https://m.okjike.com/originalPosts/65afb1ff3b9c66cae499deef?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：你给路打油分享了图片.md
+🚀 [18/20] 正在抓取：https://m.okjike.com/originalPosts/64f066ca0c915376a2d9d478?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：#管理你的能量，而非时间 和以往大家的时间管理观念非常不.md
+🚀 [19/20] 正在抓取：https://m.okjike.com/originalPosts/64a8b216f14149eb21feda04?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：这几年碰到的各种恶心事和人，总结一下对于考察外部生意伙伴，我.md
+🚀 [20/20] 正在抓取：https://m.okjike.com/originalPosts/613ee88c355dd8001053e631?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：#KY粉丝说# “停止过度思考的方法之一是专注于当下，专注于.md
+➜  wechat-article-scraper git:(master) ✗
+
+
+
+➜  wechat-article-scraper git:(master) ✗ node scrape_jike.js
+🚀 [1/16] 正在抓取：https://m.okjike.com/originalPosts/66276963a922aa28d0a91d55?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：感觉又可以白嫖了，Meta开源可本地化部署的大语言模型Lll.md
+🚀 [2/16] 正在抓取：https://m.okjike.com/originalPosts/664478e9928d2cdfd5869408?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：无论工作多年，都希望自己能说句这句话——以自己为杠杆撬动成千.md
+🚀 [3/16] 正在抓取：https://m.okjike.com/originalPosts/66419c97c2cb62a29e0cb32d?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：私董会的雏形来自割草机公司，这太玄乎太抽象了哈哈哈。.md
+🚀 [4/16] 正在抓取：https://m.okjike.com/originalPosts/6642c9943e728a883eacc084?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：累垮了 果然人到中年 属于自己的时间只能以分钟为单位计算.md
+🚀 [5/16] 正在抓取：https://m.okjike.com/originalPosts/6635af5f12ed2fda682985d6?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：涌现其实无处不在，洞察它，能窥见万象： 认知是概念之网的.md
+🚀 [6/16] 正在抓取：https://m.okjike.com/originalPosts/6637b1bd12ed2fda684f8273?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：思考的结果好坏，固然要在实践中进行检验。 但当两个思考结果.md
+🚀 [7/16] 正在抓取：https://m.okjike.com/originalPosts/663f7ce04cdaad9141bf3043?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：我清楚的看见你意思是我喜欢你。.md
+🚀 [8/16] 正在抓取：https://m.okjike.com/originalPosts/663fa53d393faf1ba545facc?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：靠假话来掩盖矛盾的事眼下越来越多了.md
+🚀 [9/16] 正在抓取：https://m.okjike.com/originalPosts/6634786e6d9f19063108f710?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：✌️.md
+🚀 [10/16] 正在抓取：https://m.okjike.com/originalPosts/66435f3519d274e296611f92?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：普通的男生和女士都应该拥有健康的自信，这是这个时代给予我们的.md
+🚀 [11/16] 正在抓取：https://m.okjike.com/originalPosts/664406d819d274e2966d3c6d?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：“杭州某电商平台基础岗位的一名运营人员” “受贿金额为92.md
+🚀 [12/16] 正在抓取：https://m.okjike.com/originalPosts/66437907304375f11da03d71?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：我是从大厂出来做买卖的人。 有一件事想和大家讲是：不管你在大.md
+🚀 [13/16] 正在抓取：https://m.okjike.com/originalPosts/664411a8f95c2fbc6623f712?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：能者多劳后面应该接一句话，劳者多得。.md
+🚀 [14/16] 正在抓取：https://m.okjike.com/originalPosts/663a53d26d9f19063176ed9e?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：从什么时候起，发朋友圈成了宣布自己当前状态，炫耀装逼必备工具.md
+🚀 [15/16] 正在抓取：https://m.okjike.com/originalPosts/662a8f8a3b9c66cae4ac6cf4?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：Inner peace..md
+🚀 [16/16] 正在抓取：https://m.okjike.com/originalPosts/663300173b9c66cae442a8f8?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+✅ 成功保存：还是要选择相对人性的地方做干电池啊 所以我决定…….md
+➜  wechat-article-scraper git:(master) ✗
+
+
+➜  wechat-article-scraper git:(master) ✗ node scrape_batch.js
+links
+📥 [1/6] 正在抓取：https://mp.weixin.qq.com/s/6rlhOEKo2dF3kc4cGwHzgQ
+✅ 保存成功：articles/有钱后才知道的真相.md
+📥 [2/6] 正在抓取：https://mp.weixin.qq.com/s/0pEDnYxjluB1qFwon-WGnA
+✅ 保存成功：articles/沉默的二本学生，困在出路里.md
+📥 [3/6] 正在抓取：https://mp.weixin.qq.com/s/JP7RfruVzs7lEFCcLPBR8A
+✅ 保存成功：articles/“我没有热爱这里，我只是出生在这个地方”.md
+📥 [4/6] 正在抓取：https://mp.weixin.qq.com/s/aUMaVFAiYmATPNGvvikwGA
+✅ 保存成功：articles/为什么有钱男人，都爱「金丝眼镜」？.md
+📥 [5/6] 正在抓取：https://mp.weixin.qq.com/s/BFF_9UnN3rOtSjtphU-7hA
+✅ 保存成功：articles/能打败特朗普的，只有第二天的特朗普.md
+📥 [6/6] 正在抓取：https://mp.weixin.qq.com/s/rRC0RmlHJ1Eg0ktjyzXFvg
+✅ 保存成功：articles/【早说】有效的职场沟通模式：DESC模式.md
+➜  wechat-article-scraper git:(master) ✗
+
+
+
+
+
 ➜  wechat-article-scraper git:(master) ✗ node scrape_jike.js
 🚀 [1/43] 正在抓取：https://m.okjike.com/originalPosts/663cb8c538849f879f49a54c?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
 ✅ 成功保存：一个人的思想境界越往上走，越给人一种冷血无情的感觉。 不管.md
