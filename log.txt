@@ -1,4 +1,9 @@
-node "/Users/gaze/gaze/code/wechat-article-scraper/scrape_jike.js"
+
+
+[穷人为什么难翻身？ 1、成熟晚 他们中大多要到30多岁，](https://m.okjike.com/originalPosts/67fa29217cb8c547e2956b11)
+
+
+
 ➜  wechat-article-scraper node "/Users/gaze/gaze/code/wechat-article-scraper/scrape_jike.js"
 🚀 [1/17] 正在抓取：https://m.okjike.com/originalPosts/66379eb3164d89e601f309cd
 ✅ 成功保存：这次事件里，有很多人去骂胖猫（跳江男子） 说他是龟男，说他.md
@@ -1783,5 +1788,7 @@ Waiting for selector `#__next > div > div.post-page` failed: Waiting failed: 100
 🚀 [37/37] 正在抓取：https://m.okjike.com/originalPosts/6649c489928d2cdfd5f02347?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
 ✅ 成功保存：永远不要整理那些可以去除的东西 。 https___hap.md
 ➜  wechat-article-scraper
+
+
 
 
