@@ -122,4 +122,8 @@ function writeLog({ status, title, url, filePath, error }) {
   }
 
   await browser.close();
+
+  // 🧹 清空链接文件
+  fs.writeFileSync('links.txt', '', 'utf-8');
+  console.log('🧹 已清空 links.txt 文件');
 })();

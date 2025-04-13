@@ -1792,3 +1792,19 @@ Waiting for selector `#__next > div > div.post-page` failed: Waiting failed: 100
 
 
 
+[2025-04-13T11:16:59.088Z] SUCCESS | 普通人如何应对世界的“消失”？
+URL: https://mp.weixin.qq.com/s/0C8Vz6TkXM-5f0W6bDffVQ
+Saved: articles/普通人如何应对世界的“消失”？.md
+---
+[2025-04-13T11:17:01.306Z] SUCCESS | 以前叫夸夸群 现在得叫正向情绪价值群
+URL: https://m.okjike.com/originalPosts/665ea710c5fd29fc46002794?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+Saved: posts/以前叫夸夸群 现在得叫正向情绪价值群.md
+---
+[2025-04-13T11:18:54.555Z] SUCCESS | 普通人如何应对世界的“消失”？
+URL: https://mp.weixin.qq.com/s/0C8Vz6TkXM-5f0W6bDffVQ
+Saved: articles/普通人如何应对世界的“消失”？.md
+---
+[2025-04-13T11:18:56.610Z] SUCCESS | 以前叫夸夸群 现在得叫正向情绪价值群
+URL: https://m.okjike.com/originalPosts/665ea710c5fd29fc46002794?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
+Saved: posts/以前叫夸夸群 现在得叫正向情绪价值群.md
+---
