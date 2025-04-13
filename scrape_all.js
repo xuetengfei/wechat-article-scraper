@@ -8,6 +8,7 @@ const links = fs
   .split('\n')
   .map(line => line.trim())
   .map(line => line.replaceAll('来源：', ''))
+  .map(line => line.replaceAll('URL: ', ''))
   .filter(
     line =>
       line.startsWith('https://mp.weixin.qq.com') ||
@@ -57,6 +58,10 @@ function writeLog({ status, title, url, filePath, error }) {
           const author = document.querySelector('#js_name')?.innerText.trim();
           const contentNode = document.querySelector('#js_content');
           const content = contentNode ? contentNode.innerText.trim() : '';
+          if (!content) {
+            throw new Error('抓取失败');
+          }
+
           return { title, author, content };
         });
       }
@@ -68,6 +73,10 @@ function writeLog({ status, title, url, filePath, error }) {
           const _content =
             document.querySelector('#__next > div > div.post-page')
               ?.innerText || '';
+
+          if (!_content) {
+            throw new Error('抓取失败');
+          }
 
           const content = _content
             .replaceAll('来自圈子', '---')
