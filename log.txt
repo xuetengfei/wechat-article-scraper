@@ -1,3 +1,67 @@
+node "/Users/gaze/gaze/code/wechat-article-scraper/scrape_jike.js"
+➜  wechat-article-scraper node "/Users/gaze/gaze/code/wechat-article-scraper/scrape_jike.js"
+🚀 [1/17] 正在抓取：https://m.okjike.com/originalPosts/66379eb3164d89e601f309cd
+✅ 成功保存：这次事件里，有很多人去骂胖猫（跳江男子） 说他是龟男，说他.md
+🚀 [2/17] 正在抓取：https://m.okjike.com/originalPosts/663ca6db145dcea97c7a240f
+✅ 成功保存：之前的五年可以说是企业家集体沉默的五年，未来几年企业家ip可.md
+🚀 [3/17] 正在抓取：https://m.okjike.com/originalPosts/658707a579cb2b9f353876f6?s=eyJ1IjoiNTdmNGRhY2FiNmMxZTUxMzAwYjA0MjZkIiwiZCI6Mn0%3D
+✅ 成功保存：贝索斯_ 人类不是一个想知道真相的动物，而是一个社会动物.md
+🚀 [4/17] 正在抓取：https://m.okjike.com/originalPosts/663cec756d9f190631af9dbe
+✅ 成功保存：如何识别假性亲密关系 1.你们不愿意探讨有冲突的话题 2.md
+🚀 [5/17] 正在抓取：https://m.okjike.com/originalPosts/663770003b9c66cae48f9e2b
+✅ 成功保存：💡一个信息源 一个有趣的博客平台，有很多有趣的文字和内容.md
+🚀 [6/17] 正在抓取：https://m.okjike.com/originalPosts/65f2f9d99185c305d1d3275b?s=eyJ1IjoiNTdmNGRhY2FiNmMxZTUxMzAwYjA0MjZkIiwiZCI6Mn0%3D
+✅ 成功保存：人这一生的职业生涯，最怕的就是没有积累。 我们常说一个人3.md
+🚀 [7/17] 正在抓取：https://m.okjike.com/originalPosts/663b5eca439026589cf3d221
+✅ 成功保存：《需要多久才能看完一场日落》的浪漫.md
+🚀 [8/17] 正在抓取：https://m.okjike.com/originalPosts/663de18c3b9c66cae41635e1
+✅ 成功保存：一家高冷的小众书店，创办于1994，被真正爱书人称为“广州书.md
+🚀 [9/17] 正在抓取：https://m.okjike.com/originalPosts/6638b7d038849f879ff4d33c
+✅ 成功保存：互联网世界天然的运行机制就是奖励话多的人。 你说， 我也要.md
+🚀 [10/17] 正在抓取：https://m.okjike.com/originalPosts/65ef210d6d9f19063104a94e?s=eyJ1IjoiNTdmNGRhY2FiNmMxZTUxMzAwYjA0MjZkIiwiZCI6Mn0%3D
+✅ 成功保存：我们在学校里学到的知识，默认是对待聪明人的，然而学校从未教过.md
+🚀 [11/17] 正在抓取：https://m.okjike.com/originalPosts/65287e0799f2123c74a51a67?s=eyJ1IjoiNTllNTZkZWMzNTMzNWYwMDE1OGE3YTU3IiwiZCI6Mn0%3D
+✅ 成功保存：「在一个被不相关信息所淹没的世界里，清晰就是力量。」 ——尤.md
+🚀 [12/17] 正在抓取：https://m.okjike.com/originalPosts/663660193b9c66cae47da318
+✅ 成功保存：为什么我对胖猫这个特别有感触？因为我是吃过捞女，精神PUA的.md
+🚀 [13/17] 正在抓取：https://m.okjike.com/originalPosts/663b1e6949d26ae34b7ae3f4?s=eyJ1IjoiNTdmNGRhY2FiNmMxZTUxMzAwYjA0MjZkIiwiZCI6Mn0%3D
+✅ 成功保存：你目光望去的方向， 是轻风拂去的过往。 清澈的眼眸如这春风般.md
+🚀 [14/17] 正在抓取：https://m.okjike.com/originalPosts/663ca85abb25fd41e7b8b658
+✅ 成功保存：分享一个屡试不爽的获取优质信息源的方法：听有结果人的播客访谈.md
+🚀 [15/17] 正在抓取：https://m.okjike.com/originalPosts/661e326638849f879f0f3c10?s=eyJ1IjoiNTdmNGRhY2FiNmMxZTUxMzAwYjA0MjZkIiwiZCI6Mn0%3D
+✅ 成功保存：干了这碗鸡汤！.md
+🚀 [16/17] 正在抓取：https://m.okjike.com/originalPosts/663f535dbee2d00229097712
+✅ 成功保存：董宇辉：过度表达和思考，会造成巨大的精神内耗。.md
+🚀 [17/17] 正在抓取：https://m.okjike.com/originalPosts/67573cf58d6dd8c09c581afb?s=eyJ1IjoiNTdmNGRhY2FiNmMxZTUxMzAwYjA0MjZkIiwiZCI6Mn0%3D
+✅ 成功保存：有启发的几张图，有时候一张图胜过千言万语呀。特别是第二张图片.md
+➜  wechat-article-scraper git:(master) ✗ 
+
+
+📥 [1/11] 正在抓取：https://mp.weixin.qq.com/s/Hp_wJLWZ9KhOmtvYxQYIkA
+✅ 保存成功：articles/秃顶中年男，篇篇10万+，不蹭热点.动辄拉黑粉丝，中国互联网写作的地标级神人.md
+📥 [2/11] 正在抓取：https://mp.weixin.qq.com/s/HTE2gdMusaGgV_RYXJhpkQ
+✅ 保存成功：articles/推荐观赏：《椒麻堂会》.md
+📥 [3/11] 正在抓取：https://mp.weixin.qq.com/s/FrnE6Le9VThP_2ag_n09pQ
+✅ 保存成功：articles/突如其来的文艺.md
+📥 [4/11] 正在抓取：https://mp.weixin.qq.com/s/2VvhK5ZjeQZ38r_UCzWqAQ
+✅ 保存成功：articles/2022年7月文章一览.md
+📥 [5/11] 正在抓取：https://mp.weixin.qq.com/s/crZT9uQp9kRhwwuIROG-xQ
+✅ 保存成功：articles/乌梅子酱.md
+📥 [6/11] 正在抓取：https://mp.weixin.qq.com/s/0YhLyTzfRNsrvUDoReHcuA
+✅ 保存成功：articles/直触生活.md
+📥 [7/11] 正在抓取：https://mp.weixin.qq.com/s/RSmJFVlglaN2pF7YLeYaag
+✅ 保存成功：articles/宅人生活指北.md
+📥 [8/11] 正在抓取：https://mp.weixin.qq.com/s/jPKhwk_zEncZUVFl00SS5A
+✅ 保存成功：articles/生活不是真人秀.md
+📥 [9/11] 正在抓取：https://mp.weixin.qq.com/s/GBMFJEd5c_9_-4dh7CMMVQ
+✅ 保存成功：articles/靠认可活着.md
+📥 [10/11] 正在抓取：https://mp.weixin.qq.com/s/cWGLLiV3iB-iQqMR-YFOKQ
+✅ 保存成功：articles/到活泼的生活中去.md
+📥 [11/11] 正在抓取：https://mp.weixin.qq.com/s/cWGLLiV3iB-iQqMR-YFOKQ
+✅ 保存成功：articles/到活泼的生活中去.md
+➜  wechat-article-scraper git:(master) ✗ 
+
+
 ➜  wechat-article-scraper git:(master) ✗ node scrape_jike.js
 🚀 [1/78] 正在抓取：https://m.okjike.com/originalPosts/66223d193b9c66cae411c326?s=ewoidSI6ICI1N2Y0ZGFjYWI2YzFlNTEzMDBiMDQyNmQiCn0=
 ✅ 成功保存：是这样 先利他 让自己可被别人使用.md
