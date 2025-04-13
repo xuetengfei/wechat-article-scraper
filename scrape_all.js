@@ -10,8 +10,8 @@ const links = fs
   .map(line => line.replaceAll('来源：', ''))
   .filter(
     line =>
-      line.startsWith('https://mp.weixin.qq.com/s/') ||
-      line.startsWith('https://m.okjike.com/originalPosts/'),
+      line.startsWith('https://mp.weixin.qq.com') ||
+      line.startsWith('https://m.okjike.com/originalPosts'),
   );
 
 function writeLog({ status, title, url, filePath, error }) {

@@ -1952,3 +1952,7 @@ Saved: articles/罗大佑是怎样炼成的？.md
 URL: https://mp.weixin.qq.com/s/Zib4WdUWgP8yaYUyBaYJ5g
 Saved: articles/大厂的问题不是酒桌，而是把钱架在人头上.md
 ---
+[2025-04-13T11:40:23.931Z] SUCCESS | 600万中国人在戒色
+URL: https://mp.weixin.qq.com/s?__biz=MzIzOTcwNTY2NQ==&mid=2247489569&idx=1&sn=5fcc3fb615d3b5cccf5fb8c6eb83291a&chksm=e927530fde50da1991f21d282b4c2d514828b72d5e43fc246233d1ba41616900f2a710282e9d
+Saved: articles/600万中国人在戒色.md
+---
