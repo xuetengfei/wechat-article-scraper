@@ -3,17 +3,19 @@ const puppeteer = require('puppeteer');
 const fs = require('fs');
 const path = require('path');
 
-const links = fs
-  .readFileSync('links.txt', 'utf-8')
-  .split('\n')
-  .map(line => line.trim())
-  .map(line => line.replaceAll('来源：', ''))
-  .map(line => line.replaceAll('URL: ', ''))
-  .filter(
-    line =>
-      line.startsWith('https://mp.weixin.qq.com') ||
-      line.startsWith('https://m.okjike.com/originalPosts'),
-  );
+const links = [
+  ...new Set(
+    fs
+      .readFileSync('links.txt', 'utf-8')
+      .split('\n')
+      .map(line => line.trim().replaceAll('来源：', '').replaceAll('URL: ', ''))
+      .filter(
+        line =>
+          line.startsWith('https://mp.weixin.qq.com') ||
+          line.startsWith('https://m.okjike.com/originalPosts'),
+      ),
+  ),
+];
 
 function writeLog({ status, title, url, filePath, error }) {
   const now = new Date().toISOString();
@@ -25,6 +27,15 @@ function writeLog({ status, title, url, filePath, error }) {
   fs.appendFileSync('log.txt', logLine);
 }
 
+function writeErrorLog({ status, title, url, filePath, error }) {
+  const now = new Date().toISOString();
+  const logLine =
+    `[${now}] ${status.toUpperCase()} | ${title || '无标题'}\nURL: ${url}\n` +
+    (filePath ? `Saved: ${filePath}\n` : '') +
+    (error ? `Error: ${error}\n` : '') +
+    `---\n`;
+  fs.appendFileSync('error.txt', logLine);
+}
 // console.log('links');
 
 (async () => {
@@ -126,7 +137,7 @@ function writeLog({ status, title, url, filePath, error }) {
     } catch (err) {
       console.error(`❌ 抓取失败：${url}`);
       console.error(err.message);
-      writeLog({ status: 'error', title: '', url, error: err.message });
+      writeErrorLog({ status: 'error', title: '', url, error: err.message });
     }
   }
 

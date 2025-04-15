@@ -58,3 +58,7 @@ tempCodeRunnerFile.js
 
 
 log.txt
+error.txt
+log-bak-1.txt
+
+*.md
